@@ -9,15 +9,6 @@ My recipe was forked from the one [Paolo Pedercini](http://www.molleindustria.or
 Please take this recipe and try it at home, with your class, club or organization, and share your results with all people _upstream_.
 
 
-#Testing footnotes
-
-I get 10 times more traffic from Google[^1] than from
-Yahoo[2] or MSN [3].
-
-  [^1]: http://google.com/        
-  [2]: http://search.yahoo.com/  "Yahoo Search"
-  [3]: http://search.msn.com/    "MSN Search"
-
 ## Introduction
 
 **This workshop is about hacking the rules of existing videogames in response to topical issues, and prototyping new games that are vessels of alternative values and messages.**
@@ -29,43 +20,37 @@ Working in small teams, participants receive two creative constraints:
 
 The first task is to **analyse the game verbs**: what actions players can do, how they can interact with game characters or other players, what they should do to win the game, and what they simply can’t do. Participants explore how these verbs express messages and values, ideas and ideologies. 
 
-Then they **redesign the game so that it is about the issue**, using a different set of verbs that reflect the values and views of the team. Participants are encouraged to consider changing the _gameplay_[^1], as well as the goal(s) and narrative of the game.
+Then they **redesign the game so that it is about the issue**, using a different set of verbs that reflect the values and views of the team. Participants are encouraged to consider changing the _gameplay_[<sup id="s1">1</sup>](#f1), as well as the goal(s) and narrative of the game.
 
-Each team is provided with a collection of **pre-cut paper props** ripped from the assigned game, which they use to discuss and prototype alternative gameplays, as opposed to simply re-skin the game[^2].
+Each team is provided with a collection of **pre-cut paper props** ripped from the assigned game, which they use to discuss and prototype alternative gameplays, as opposed to simply re-skin[<sup id="s2">2</sup>](#f2) the game.
 
 ![In a nutshell](https://raw.github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/master/images/in-a-nutshell.png)
-
-  [^1]: _Gameplay_: the system of rules and the ways players interact with characters and objects.
-
-  [^2]: _Re-skin_: change graphic appearances while keeping the mechanics intact
 
 ## Ingredients
 
 Before the workshop I prepared:
 
-1. a **[short presentation](https://docs.google.com/document/pub?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q)** to be delivered in a _kamishibai_[^3] fashion, scribbling key concepts on a flip chart as I introduce them to participants, asking them questions and fostering an open discussion. Besides, the hands-on nature of the workshop makes digital slides inappropriate. 
+1. a **[short presentation](https://docs.google.com/document/pub?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q)** to be delivered in a _kamishibai_[<sup id="s3">3</sup>](#f3) fashion, scribbling key concepts on a flip chart as I introduce them to participants, asking them questions and fostering an open discussion. Besides, the hands-on nature of the workshop makes digital slides inappropriate. 
 2. a set of **printed [game cards](https://docs.google.com/document/pub?id=1DYXX_zd00e4yhfxbLL84EORXN62MHZJxXhzBNnrERHo)**, each of them including a visual reference, a short explanation and a few questions to help teams analyse their game
 3. a set of **printed [issue cards](https://docs.google.com/document/pub?id=1_kOZeI-p9bCzXj-4HrM9btvAkDCMp56qqSqSv3wdRCU)**, each of them including related keywords and an example scenario to stimulate different takes on the issue
 4. a **printed [brainstorming cheatsheet](https://docs.google.com/document/pub?id=1I_SWb14II4QjzaI9PymAwy21d-bhj42FW1Z3Ab99WG8)** with tips and questions to help team discussion
-5. a printed set of ze props!
+5. a set of **printed props** for people to use as main movable visual modules when prototyping their new gameplays. Physical paper pieces compel participants to reason in visual and spatial terms. They also allow for a more democratic process, since all team members can rearrange elements as if they were working on a jigsaw puzzle
 
+Additional materials needed for the paper-prototyping activity:
 
-
-
-
-Feel free to **[download](#) all the ingredients** in a handy zip. 
-
-#TODO put resources on GitHub
-
-  [^3]: _Kamishibai_ is a form of visual and participatory storytelling that combines the use of hand drawn visuals with the narration of a live presenter. [Learn more](http://www.presentationzen.com/presentationzen/2011/10/kamishibai-is-a-form-of-visual-and-participatory-storytelling-that-combines-the-use-of-hand-drawn-visuals-with-the-engaging-n.html)
-
-
+* large format **paper**, A2 or bigger
+* **sharpies** in various tints
+* **post-its** in different colours
+* **scissors**
+* **glue** sticks
 
 ### The elevator pitch
 
+In the joyful chaos of an event like the [Mozilla Festival](http://mozillafestival.org/), you need a short and engaging workshop description to attract people.
+ 
 As [advertised on Lanyrd](http://lanyrd.com/2012/mozilla-festival/szkmy/):
 
-> This session will allow you to **prototype a videogame** starting with something we are all familiar with: **verbs**! Whether it is running or collecting, shooting or trading, games are driven by verbs. We will look at classic games in terms of verbs and explore how these verbs express messages and values. Then we will modify these games, changing the verbs so that they express our own messages and values.
+> This session will allow you to **prototype a videogame** starting with something we are all familiar with: verbs! Whether it is running or collecting, shooting or trading, **games are driven by verbs**. We will look at classic games in terms of verbs and explore how these verbs express messages and values. Then we will **hack these games**, changing the verbs so that they express our own messages and values.
 
 
 ## Method
@@ -80,12 +65,9 @@ The scenario is meant to be an example. Participants were able to choose to appr
 
 
 
-### Links and downloads
-
-https://wiki.mozilla.org/Festival2012/Submit/Paper-prototype_socially_responsive_games_with_verbs
 
 
-https://wiki.mozilla.org/Festival2012/Submit/Paper-prototype_socially_responsive_games_with_verbs
+
 
 
 
@@ -109,6 +91,17 @@ You have Internet connection, but your friends don't. Your first goal is to get 
 You (Pac-man) want to be energy efficient, but energy corporations want you to waste it. Your goal is to get out of each level's maze by consuming the least amount of energy (dots), while the shiny gadgets and juicy appliances that are thrown at you to increase your bill. This game subverts the Pac-man gameplay by turning its endless hunger and pointless accumulation into a strategic avoidance
 
 
+### The party bag
+
+These are some of the general outcomes that people can take home from this workshop:
+
+* develop a critical thinking approach to entertainment commodities
+* practice team work in a playfully structured activity
+* develop a methodology that can be applied to game design and user experience design in general, using constraints to channel your creative response
+* leave with a prototyped concept, which you can develop further, digitally as a video game or physically as a board game
+* organize similar hack-a-game sessions, independently, in the future 
+
+
 ### What worked
 
 * examples of outcomes (eg: PAC-MAN + BULLYING = Pac-Man is a student, bullied by ghosts. Some of them pick on his skin colour, others on his insatiable hunger. In order to defeat the different types of bullies, you needed different skills)
@@ -126,3 +119,29 @@ You (Pac-man) want to be energy efficient, but energy corporations want you to w
 * state clearly that the example scenario is only an example but groups could come up with any other scenario where the issue manifests itself
 * different colours for different parts? (eg: green Post-its for verbs that are present, yellow Post-its for verbs that are not present, pink for values, etc..)
 * 3 minutes constraint for the final presentation, forces you to simplify the game
+
+
+### Footnotes
+
+###### <a id="f1"></a> Gameplay
+The system of rules and the ways players interact with characters and objects. [↩](#s1)
+
+###### <a id="f2"></a> Re-skin
+Change graphic appearances while keeping the mechanics intact [↩](#s2)
+
+###### <a id="f3"></a> Kamishibai
+A form of visual and participatory storytelling that combines the use of hand drawn visuals with the narration of a live presenter. [Learn more about Kamishibai](http://www.presentationzen.com/presentationzen/2011/10/kamishibai-is-a-form-of-visual-and-participatory-storytelling-that-combines-the-use-of-hand-drawn-visuals-with-the-engaging-n.html) [↩](#s3)
+
+
+# TO DO 
+* move resources from GDocs to GitHub
+
+
+# BIN
+
+https://wiki.mozilla.org/Festival2012/Submit/Paper-prototype_socially_responsive_games_with_verbs
+
+
+
+
+
