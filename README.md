@@ -22,6 +22,8 @@ The first task is to **analyse the game verbs**: what actions players can do, ho
 
 Then they **redesign the game so that it is about the issue**, using a different set of verbs that reflect the values and views of the team. Participants are encouraged to consider changing the _gameplay_<sup><a id="s1" href="#-gameplay">1</a></sup>, as well as the goal(s) and narrative of the game.
 
+[Some Link]({% #-gameplay This is the title %})
+
 Each team is provided with a collection of **pre-cut paper props** ripped from the assigned game, which they use to discuss and prototype alternative gameplays, as opposed to simply re-skin[<sup id="s2">2</sup>](#f2) the game.
 
 ![In a nutshell](https://raw.github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/master/images/in-a-nutshell.png)
