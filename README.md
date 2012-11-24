@@ -23,7 +23,7 @@ Then they **redesign the game so that it is about the issue**, using a different
 
 Each team is provided with a collection of **pre-cut paper props** ripped from the assigned game, which they use to discuss and prototype alternative gameplays, as opposed to simply re-skin the game[^2].
 
-![In a nutshell](images/in-a-nutshell.jpg)
+![In a nutshell](images/in-a-nutshell.png)
 
 [^1]: _Gameplay_: the system of rules and the ways players interact with characters and objects.
 
