@@ -8,6 +8,16 @@ My recipe was forked from the one [Paolo Pedercini](http://www.molleindustria.or
 
 Please take this recipe and try it at home, with your class, club or organization, and share your results with all people _upstream_.
 
+
+#Testing footnotes
+
+I get 10 times more traffic from Google[^1] than from
+Yahoo[2] or MSN [3].
+
+  [^1]: http://google.com/        
+  [2]: http://search.yahoo.com/  "Yahoo Search"
+  [3]: http://search.msn.com/    "MSN Search"
+
 ## Introduction
 
 **This workshop is about hacking the rules of existing videogames in response to topical issues, and prototyping new games that are vessels of alternative values and messages.**
@@ -19,21 +29,21 @@ Working in small teams, participants receive two creative constraints:
 
 The first task is to **analyse the game verbs**: what actions players can do, how they can interact with game characters or other players, what they should do to win the game, and what they simply can’t do. Participants explore how these verbs express messages and values, ideas and ideologies. 
 
-Then they **redesign the game so that it is about the issue**, using a different set of verbs that reflect the values and views of the team. Participants are encouraged to consider changing the _gameplay_ [1], as well as the goal(s) and narrative of the game.
+Then they **redesign the game so that it is about the issue**, using a different set of verbs that reflect the values and views of the team. Participants are encouraged to consider changing the _gameplay_[^1], as well as the goal(s) and narrative of the game.
 
-Each team is provided with a collection of **pre-cut paper props** ripped from the assigned game, which they use to discuss and prototype alternative gameplays, as opposed to simply re-skin the game [2].
+Each team is provided with a collection of **pre-cut paper props** ripped from the assigned game, which they use to discuss and prototype alternative gameplays, as opposed to simply re-skin the game[^2].
 
 ![In a nutshell](https://raw.github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/master/images/in-a-nutshell.png)
 
-[1]: _Gameplay_: the system of rules and the ways players interact with characters and objects.
+  [^1]: _Gameplay_: the system of rules and the ways players interact with characters and objects.
 
-[2]: _Re-skin_: change graphic appearances while keeping the mechanics intact
+  [^2]: _Re-skin_: change graphic appearances while keeping the mechanics intact
 
 ## Ingredients
 
 Before the workshop I prepared:
 
-1. a **[short presentation](https://docs.google.com/document/pub?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q)** to be delivered in a _kamishibai_ [3] fashion, scribbling key concepts on a flip chart as I introduce them to participants, asking them questions and fostering an open discussion. Besides, the hands-on nature of the workshop makes digital slides inappropriate. 
+1. a **[short presentation](https://docs.google.com/document/pub?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q)** to be delivered in a _kamishibai_[^3] fashion, scribbling key concepts on a flip chart as I introduce them to participants, asking them questions and fostering an open discussion. Besides, the hands-on nature of the workshop makes digital slides inappropriate. 
 2. a set of **printed [game cards](https://docs.google.com/document/pub?id=1DYXX_zd00e4yhfxbLL84EORXN62MHZJxXhzBNnrERHo)**, each of them including a visual reference, a short explanation and a few questions to help teams analyse their game
 3. a set of **printed [issue cards](https://docs.google.com/document/pub?id=1_kOZeI-p9bCzXj-4HrM9btvAkDCMp56qqSqSv3wdRCU)**, each of them including related keywords and an example scenario to stimulate different takes on the issue
 4. a **printed [brainstorming cheatsheet](https://docs.google.com/document/pub?id=1I_SWb14II4QjzaI9PymAwy21d-bhj42FW1Z3Ab99WG8)** with tips and questions to help team discussion
@@ -47,7 +57,7 @@ Feel free to **[download](#) all the ingredients** in a handy zip.
 
 #TODO put resources on GitHub
 
-[3]: _Kamishibai_ is a form of visual and participatory storytelling that combines the use of hand drawn visuals with the narration of a live presenter. [Learn more](http://www.presentationzen.com/presentationzen/2011/10/kamishibai-is-a-form-of-visual-and-participatory-storytelling-that-combines-the-use-of-hand-drawn-visuals-with-the-engaging-n.html)
+  [^3]: _Kamishibai_ is a form of visual and participatory storytelling that combines the use of hand drawn visuals with the narration of a live presenter. [Learn more](http://www.presentationzen.com/presentationzen/2011/10/kamishibai-is-a-form-of-visual-and-participatory-storytelling-that-combines-the-use-of-hand-drawn-visuals-with-the-engaging-n.html)
 
 
 
