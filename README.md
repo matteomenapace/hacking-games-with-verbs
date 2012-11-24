@@ -20,7 +20,7 @@ Working in small teams, participants receive two creative constraints:
 
 The first task is to **analyse the game verbs**: what actions players can do, how they can interact with game characters or other players, what they should do to win the game, and what they simply can’t do. Participants explore how these verbs express messages and values, ideas and ideologies. 
 
-Then they **redesign the game so that it is about the issue**, using a different set of verbs that reflect the values and views of the team. Participants are encouraged to consider changing the _gameplay_[<sup id="s1">1</sup>](#f1), as well as the goal(s) and narrative of the game.
+Then they **redesign the game so that it is about the issue**, using a different set of verbs that reflect the values and views of the team. Participants are encouraged to consider changing the _gameplay_<sup><a id="s1" href="#-gameplay">1</a></sup>, as well as the goal(s) and narrative of the game.
 
 Each team is provided with a collection of **pre-cut paper props** ripped from the assigned game, which they use to discuss and prototype alternative gameplays, as opposed to simply re-skin[<sup id="s2">2</sup>](#f2) the game.
 
@@ -123,7 +123,7 @@ These are some of the general outcomes that people can take home from this works
 
 ### Footnotes
 
-###### <a id="f1"></a> Gameplay
+###### <a id="-gameplay"></a> Gameplay
 The system of rules and the ways players interact with characters and objects. [↩](#s1)
 
 ###### <a id="f2"></a> Re-skin
