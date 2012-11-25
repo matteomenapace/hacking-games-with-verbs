@@ -8,21 +8,21 @@ I am Matteo. You can find me on the Web under the nickname [Baddeo][1] (which is
 
 This session is about hacking games, using a tool we are all familiar with: verbs! 
 
-Yes, a little disappointing if you were expecting some fancy JavaScript framework, but verbs are quite powerful too. Whether it is running or collecting, shooting or trading, games are driven by verbs: they determine what you can do in a game, how you can interact with its characters or other players, what you should do to win it, and what you simply can't do (ever tried to talk to a monster in a first-person-shooter, instead of shooting it?). 
+Whether it is running or collecting, shooting or trading, **games are driven by verbs**: they determine what you can do in a game, how you can interact with its characters or other players, what you should do to win it, and what you simply can't do. Ever tried to talk to a monster in a first-person-shooter, instead of shooting it? 
 
-So, we will look at classic videogames in terms of verbs and explore how these verbs express messages and values, ideas and ideologies. Then we will modify these games, changing the verbs so that they express our own messages and values.
+So, we will look at classic videogames in terms of verbs and explore how these **verbs express messages and values, ideas and ideologies**. Then we will modify these games, changing the verbs so that they express our own messages and values.
 
 ### ENTERTAINMENT? 
 
 Let's starts from an unpopular assumption, which is: games can convey messages, they can be expressive and even when they are not designed for that, they embody certain values.
 
-![](https://docs.google.com/document/pubimage?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q&image_id=1YbsLmKp7yHs0O8CSLnhc6rEGDgaDfPlx)![](https://docs.google.com/document/pubimage?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q&image_id=1fszVQcQ1JCrCQ_Hsx1ceDT5bJnq5Vloy)![](https://docs.google.com/document/pubimage?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q&image_id=1wy9not1gEMIt7Nr_LKjLt8bh8qFXf3Cm)
+Games are **cultural products** made by actual people (typically white male nerds).
 
-Games are cultural products made by actual people (typically white male nerds).
-
-People with their own background, culture, systems of values, beliefs.
+People with their own background, culture, systems of values, beliefs. 
 
 These backgrounds will inevitably affect the design of the game.
+
+![Between a real city and SimCity](images/presentation/entertainment.jpg)
 
 Between a real city and SimCity there is a person who decides what to include and what to not include in the simulation, how the game elements interact, what you (as a player) can do and what you cannot do.
 
@@ -30,9 +30,9 @@ Between a real city and SimCity there is a person who decides what to include an
 
 A simulation is an abstraction of real life, which necessarily eliminates some of real life's complexities to focus on certain aspects only. Like a scientific experiment, a simulation game creates a simplified model of real life, which variables can be manipulated by a scientist, or a player. Who designs the experiment, or the game, decides which variables to include and which to leave out.
 
-You don't find racial tensions in SimCity, yet they were a major factor in the development of North American cities, on which SimCity was modeled.
+You don't find racial tensions in SimCity, yet they were a major factor in the development of North American cities, on which SimCity was modelled.
 
-![](https://docs.google.com/document/pubimage?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q&image_id=14qHp5FK2ibLYPWv-0B3hKQHAZJ37f-wD)![](https://docs.google.com/document/pubimage?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q&image_id=1T2bSdcy6D0ln7OPGKoQDjFVWWy_w9bFS)
+![Simplified models of real life](images/presentation/simulation.jpg)
 
 In military themed first-person shooters you generally get a fantastical, propagandistic representation of war, reflecting a simplified vision of the world that was divided into goodies and baddies, where enemies are clearly distinguishable, dressed up with balaclavas, and civilians are nowhere to be seen.
 
@@ -42,7 +42,7 @@ Even apparently innocuous and non-violent games like [Farmville][3] simulate bus
 
 They are generally based on a principle of endless accumulation, endless expansion, whilst excluding the negative byproducts of industrial food production: pollution, deforestation, deterioration of labour conditions, and so on.
 
-![](https://docs.google.com/document/pubimage?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q&image_id=1Ip33zlACZJjZken-yJvWyTxQ0-EQUoFK)![](https://docs.google.com/document/pubimage?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q&image_id=1SgGdWpwdLhFdirQI-NlVk_M0CrZ8nWtg)
+![Games describing systems of production](images/presentation/systems.jpg)
 
 These are systemic problems, and games can be very good at describing systems.
 
@@ -50,11 +50,11 @@ These are systemic problems, and games can be very good at describing systems.
 
 Nowadays a lot of games rely heavily on stories, which can be problematic too.
 
-![](https://docs.google.com/document/pubimage?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q&image_id=1kw6VoJPwtatJr-SulyhWJep-CKLbZTMp)![](https://docs.google.com/document/pubimage?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q&image_id=1NThCiDvljgpkDc8wFNg_mnzImRWX8CvB)
-
 Have you seen the trailer from the forthcoming Tomb Raider, that includes a sexual assault scene? We don't know whether you will actually be able to prevent the rape as a player, but we like to think you will.
 
-However, this was heavily criticized as a tasteless move and sloppy writing. If you have a female protagonist, the most cliché narrative device for character development is a rape or sexual assault.
+![Deconstructing narratives](images/presentation/narratives.jpg)
+
+However, this was heavily criticised as a tasteless move and sloppy writing. If you have a female protagonist, the most cliché narrative device for character development is a rape or sexual assault.
 
 But there was a reaction, because we know how to deconstruct these narratives: they are not too different from the stories we see on TV or in films.
 
@@ -64,9 +64,9 @@ There are a lot of representational issues in videogames.
 
 Women and minorities are rarely featured, and we can spot that quite easily. But we need literacy for the more subtle implications, not just whether or not you can play as a black girl, but how is the experience of playing in this role.
 
-![](https://docs.google.com/document/pubimage?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q&image_id=1AI339PPMek6g-qYZSpjjWcCobY2YQhoh)![](https://docs.google.com/document/pubimage?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q&image_id=1Jfx-PV0_qQQDbzPL_l-RDiTQbNMKOgPE)
-
 Take the Sims, which allows all sort of skin colours and some gender orientation outside the binary norm. Yet these differences are irrelevant to the gameplay, as the system of the game doesn't really take them into account: you have the same career and friendship opportunities regardless of your identity. Your ethnic background is flattened to a single, insignificant variable.
+
+![Irrelevant differences](images/presentation/representation.jpg)
 
 We'd like to see a version of the Sims which explains discrimination.
 
@@ -88,9 +88,9 @@ Another important property of games, that sets them apart from storytelling medi
 
 You don't just empathize with a character, you immerse yourself in that character and take decisions for her in the simulated world.
 
-![](https://docs.google.com/document/pubimage?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q&image_id=1jkRIOjVGJMCeDWo62UgI6a-WB2bTKfi2)![](https://docs.google.com/document/pubimage?id=1m7CVKpsHk38UXiyCIBv-sBtNZ8g2rHZFVbVGsoLd59Q&image_id=1034Mozn1WOuYoY09UXQK8CbhH_MBu9gI)
-
 Most mainstream games use roleplay in function of escapism, and they tend to be power fantasies.
+
+![Power fantasies vs disempowered roleplay](images/presentation/roleplay.jpg)
 
 But it's possible to expand the scope of roleplay, challenging players to experience the world from a different perspective. There are some experiments, like [Darfur is dying][4] in which you play as a Darfur refugee, or [Spent][5], a simulation of daily life below the poverty line.
 
@@ -98,11 +98,7 @@ Awkward roleplay strategies can be used to create moral dilemmas, forcing the pl
 
 ### PAPER-PROTOTYPING
 
-This is a session about videogames, but obviously very few people can make a videogame in one hour and a half.
-
-People here are working at making game creation more accessible, so perhaps tomorrow you can take your game ideas to other sessions and turn them into playable prototypes.
-
-But for now we are using a technique called paper-prototyping.
+This is a workshop about videogames, but it is not our aim to build a videogame in one hour and a half.
 
 We are used to considering videogames as technological objects, but before becoming software they have to be designed as rule systems.
 
