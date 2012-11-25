@@ -30,11 +30,11 @@ Each team is provided with a collection of **pre-cut paper props** ripped from t
 
 To be prepared ahead of the workshop:
 
-1. a **[short presentation](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/blob/master/presentation.md)** to be delivered in a _kamishibai_[<sup id="s3">3</sup>](#-kamishibai) fashion, scribbling key concepts on a flip chart as you introduce them to participants, asking them questions and fostering an open discussion. Besides, the hands-on nature of the workshop makes digital slides inappropriate 
-2. a set of **printed [game cards](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/blob/master/games.md)**, each of them including a visual reference, a short explanation and a few questions to help teams analyse their game
-3. a set of **printed [issue cards](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/blob/master/cheatsheet.md)**, each of them including related keywords and an example scenario to stimulate different takes on the issue. Participants can choose to approach the issue in an abstract way, in more geographically or historically specific way or anything in between 
-4. a **printed [brainstorming cheatsheet](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/blob/master/cheatsheet.md)** with tips and questions to help team discussion
-5. a set of **printed [props](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/tree/master/images/games)** for people to use as main movable visual modules when prototyping their new gameplays. Physical paper pieces compel participants to reason in visual and spatial terms. They also allow for a more democratic process, since all team members can rearrange elements as if they were working on a jigsaw puzzle
+1. A **[short presentation](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/blob/master/presentation.md)** to be delivered in a _kamishibai_[<sup id="s3">3</sup>](#-kamishibai) fashion, scribbling key concepts on a flip chart as you introduce them to participants, asking them questions and fostering an open discussion. Besides, the hands-on nature of the workshop makes digital slides inappropriate. 
+2. A set of **printed [game cards](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/blob/master/games.md)**, each of them including a visual reference, a short explanation and a few questions to help teams analyse their game.
+3. A set of **printed [issue cards](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/blob/master/cheatsheet.md)**, each of them including related keywords and an example scenario to stimulate different takes on the issue. Participants can choose to approach the issue in an abstract way, in more geographically or historically specific way or anything in between. 
+4. A **printed [brainstorming cheatsheet](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/blob/master/cheatsheet.md)** with tips and questions to help team discussion.
+5. A set of **printed [props](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/tree/master/images/games)** for people to use as main movable visual modules when prototyping their new gameplays. Physical paper pieces compel participants to reason in visual and spatial terms. They also allow for a more democratic process, since all team members can rearrange elements as if they were working on a jigsaw puzzle.
 
 Additional materials needed for the paper-prototyping activity:
 
@@ -57,29 +57,29 @@ As [advertised on Lanyrd](http://lanyrd.com/2012/mozilla-festival/szkmy/):
 
 This is how the workshop unfolds:
 
-1. start with a **[short presentation](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/blob/master/presentation.md)**, providing people with a basic theoretical framework and case studies to discuss issues around videogames 
-2. explain the workshop team activity, **walking through all steps** from the extraction of verbs to the injection of new messages and values into the new game's prototype
-3. give participants **hints to possible outcomes**, like _PAC-MAN + BULLYING = Pac-Man is a student, bullied by ghosts. Some of them pick on his skin colour, others on his insatiable hunger. In order to defeat the different types of bullies, you need different skills (fruit)_. Examples are crucial, it seems, for people to grasp what they will work towards
-4. **form teams** of 3 to 5 people
-5. ask each team to **pick a random videogame and issue cards**. This prevents participants from spending too much time thinking about the game or issue they deem more appropriate. State clearly that the example scenario on the issue card is only an example, but teams can come up with any other scenario where the issue manifests itself
-6. provide teams with plenty of **paper, post-its and sharpies**. A couple of participants after the workshop suggested a colour-coding system for this phase (eg: green post-its for verbs that are present, yellow post-its for verbs that are not present, pink for values and so on), to make the final outcomes more readable at a glance
-6. teams **start breaking down the game mechanics into verbs**, and think about the implicit or explicit messages that these verbs entail. The focus is on the game at this stage, yet knowing already the issue may help teams consider how it could be fed into the game later on. Or maybe not, so you could consider introducing the issue cards only after teams have analysed their game
-![Mario analysed](images/verbs.jpg)
-7. after about half an hour, ask each team to quickly present their analyses so far to everyone else. These short **mid-session presentations** allow teams to compare their thought processes and inform their work
-![Mid-session presentations](images/mid-session.jpg)
-8. provide teams with a collection of **game props, printed and pre-cut**. If you don't cut them, people are less likely to use the props, either to negotiate with the other team members, or to visualize their game concept
-![Bomberman props](images/props.jpg)
-9. ask teams to **explore alternative gameplays**, using verbs from their issue, and messages that represent their views. They will then **paper-prototype** one. This phase should take about an hour
-![Prototyping](images/prototyping.jpg)
-10. ask teams to **stick their work on a whiteboard** or otherwise big support that can accommodate everything they produced, positioning elements so that it can be **read as a flow** (ie: game + issue = outcome)
-![Games boards](images/boards.jpg)
-11. each team **presents** their new game to everyone else. After the workshop people suggested that these final presentations have a 3 minutes constraint, forcing teams to simplify the prototype's gameplay or at least to present a simplified version of their concept
-![Networkman presentation](images/presentation.jpg)
+1. Start with a **[short presentation](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/blob/master/presentation.md)**, providing people with a basic theoretical framework and case studies to discuss issues around videogames. 
+2. Explain the workshop team activity, **walking through all steps** from the extraction of verbs to the injection of new messages and values into the new game's prototype.
+3. Give participants **hints to possible outcomes**, like _PAC-MAN + BULLYING = Pac-Man is a student, bullied by ghosts. Some of them pick on his skin colour, others on his insatiable hunger. In order to defeat the different types of bullies, you need different skills (fruit)_. Examples are crucial, it seems, for people to grasp what they will work towards.
+4. **Form teams** of 3 to 5 people.
+5. Ask each team to **pick a random videogame and issue cards**. This prevents participants from spending too much time thinking about the game or issue they deem more appropriate. State clearly that the example scenario on the issue card is only an example, but teams can come up with any other scenario where the issue manifests itself.
+6. Provide teams with plenty of **paper, post-its and sharpies**. A couple of participants after the workshop suggested a colour-coding system for this phase (eg: green post-its for verbs that are present, yellow post-its for verbs that are not present, pink for values and so on), to make the final outcomes more readable at a glance.
+6. Teams **start breaking down the game mechanics into verbs**, and think about the implicit or explicit messages that these verbs entail. The focus is on the game at this stage, yet knowing already the issue may help teams consider how it could be fed into the game later on. Or maybe not, so you could consider introducing the issue cards only after teams have analysed their game.
+![Mario analysed](https://raw.github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/master/images/verbs.jpg)
+7. After about half an hour, ask each team to quickly present their analyses so far to everyone else. These short **mid-session presentations** allow teams to compare their thought processes and inform their work.
+![Mid-session presentations](https://raw.github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/master/images/mid-session.jpg)
+8. Provide teams with a collection of **game props, printed and pre-cut**. If you don't cut them, people are less likely to use the props, either to negotiate with the other team members, or to visualize their game concept.
+![Bomberman props](https://raw.github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/master/images/props.jpg)
+9. Ask teams to **explore alternative gameplays**, using verbs from their issue, and messages that represent their views. They will then **paper-prototype** one. This phase should take about an hour.
+![Prototyping](https://raw.github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/master/images/prototyping.jpg)
+10. Ask teams to **stick their work on a whiteboard** or otherwise big support that can accommodate everything they produced, positioning elements so that it can be **read as a flow** (ie: game + issue = outcome).
+![Games boards](https://raw.github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/master/images/boards.jpg)
+11. Each team **presents** their new game to everyone else. After the workshop people suggested that these final presentations have a 3 minutes constraint, forcing teams to simplify the prototype's gameplay or at least to present a simplified version of their concept.
+![Networkman presentation](https://raw.github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/master/images/presentation.jpg)
 
 
 ## Outcomes
 
-Three groups took part in the workshop at the [Mozilla Festival]((http://lanyrd.com/2012/mozilla-festival/szkmy/). These are the game concepts they came up with:
+Three teams took part in the workshop at the [Mozilla Festival]((http://lanyrd.com/2012/mozilla-festival/szkmy/). These are the game concepts they came up with:
 
 1. #### MARIO + POWER of MONEY:
 Princess Toadstool is in debt, and Mario has to bail her out. The more time passes, the bigger her debt grows.
@@ -89,7 +89,7 @@ So you set out to gather money and keep up with repayments, while the game keeps
 You have Internet connection, but your friends don't. Your first goal is to get them connected, so that you can start building things together. So you set out to find cable and build a physical network, but the network thieves drop bombs to destroy your connections. When you connect another player, they can help you make the network stronger and unlock new challenges to build the Open Web.
 
 3. #### PAC-MAN + ENERGY:
-You (Pac-man) want to be energy efficient, but energy corporations want you to waste it. Your goal is to get out of each level's maze by consuming the least amount of energy (dots), while the shiny gadgets and juicy appliances that are thrown at you to increase your bill. This game subverts the Pac-man gameplay by turning its endless hunger and pointless accumulation into a strategic avoidance
+You (Pac-man) want to be energy efficient, but energy corporations want you to waste it. Your goal is to get out of each level's maze by consuming the least amount of energy (dots), while the shiny gadgets and juicy appliances that are thrown at you to increase your bill. This game subverts the Pac-man gameplay by turning its endless hunger and pointless accumulation into a strategic avoidance.
 
 
 ### The party bag
@@ -114,10 +114,6 @@ Change graphic appearances while keeping the mechanics intact [↩](#introductio
 
 ###### <a id="-kamishibai"></a> Kamishibai
 A form of visual and participatory storytelling that combines the use of hand drawn visuals with the narration of a live presenter. [Learn more about Kamishibai](http://www.presentationzen.com/presentationzen/2011/10/kamishibai-is-a-form-of-visual-and-participatory-storytelling-that-combines-the-use-of-hand-drawn-visuals-with-the-engaging-n.html) [↩](#ingredients)
-
-
-## TO DO 
-* update presentation.md and games.md
 
 
 
