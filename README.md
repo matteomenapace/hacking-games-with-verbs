@@ -79,7 +79,7 @@ This is how the workshop unfolds:
 
 ## Outcomes
 
-Three teams took part in the workshop at the [Mozilla Festival]((http://lanyrd.com/2012/mozilla-festival/szkmy/). These are the game concepts they came up with:
+Three teams took part in the workshop at the [Mozilla Festival](http://lanyrd.com/2012/mozilla-festival/szkmy/). These are the game concepts they came up with:
 
 1. #### MARIO + POWER of MONEY:
 Princess Toadstool is in debt, and Mario has to bail her out. The more time passes, the bigger her debt grows.
