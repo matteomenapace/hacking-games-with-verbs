@@ -1,12 +1,10 @@
-# Paper-prototype socially responsive games with verbs
+# Hacking games with verbs
 
-![Poster](https://raw.github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/master/images/poster.jpg)
+![Poster](images/poster.jpg)
 
-This is the **recipe for a workshop** I presented at the [Mozilla Festival 2012](http://lanyrd.com/szkmy). 
+I *forked* this **workshop recipe** from [this one](http://www.molleindustria.org/blog/a-computerless-videogame-modding-workshop), prepared by [Paolo Pedercini](http://www.molleindustria.org) and [Una Lee](http://unalee.net/), and inspired by [Grow-a-Game](http://www.tiltfactor.org/grow-a-game).
 
-My recipe was forked from the one [Paolo Pedercini](http://www.molleindustria.org) and [Una Lee](http://unalee.net/) prepared for the [Allied Media Conference](http://www.molleindustria.org/blog/a-computerless-videogame-modding-workshop/), and inspired by [Grow-a-Game](http://www.tiltfactor.org/grow-a-game).
-
-Please take this recipe and try it at home, with your class, club or organization, and share your results with all people _upstream_.
+Please take this recipe and try it at home, with your class, club or organisation, and share your results with all people _upstream_ (as per [license](LICENSE)).
 
 
 ## Introduction
@@ -30,7 +28,7 @@ Each team is provided with a collection of **pre-cut paper props** ripped from t
 
 To be prepared ahead of the workshop:
 
-1. A **[short presentation](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/blob/master/presentation.md)** to be delivered in a _kamishibai_[<sup id="s3">3</sup>](#-kamishibai) fashion, scribbling key concepts on a flip chart as you introduce them to participants, asking them questions and fostering an open discussion. Besides, the hands-on nature of the workshop makes digital slides inappropriate. 
+1. A **[short presentation](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/blob/master/presentation.md)** to be delivered in a _kamishibai_[<sup id="s3">3</sup>](#-kamishibai) fashion, scribbling key concepts on a flip chart as you introduce them to participants, asking them questions and fostering an open discussion. 
 2. A set of **printed [game cards](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/blob/master/games.md)**, each of them including a visual reference, a short explanation and a few questions to help teams analyse their game.
 3. A set of **printed [issue cards](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/blob/master/issues.md)**, each of them including related keywords and an example scenario to stimulate different takes on the issue. Participants can choose to approach the issue in an abstract way, in more geographically or historically specific way or anything in between. 
 4. A **printed [brainstorming cheatsheet](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/blob/master/cheatsheet.md)** with tips and questions to help team discussion.
