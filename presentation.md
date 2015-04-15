@@ -1,9 +1,3 @@
-### WELCOME 
-
-Hello and welcome to the Mozfest session with the most **verbose** title.
-
-I am Matteo. You can find me on the Web under the nickname [Baddeo][1] (which is very humbly Matteo with the sniffles) and during the week you can find me at [Milo Creative][2], where I design and develop apps and games to engage and educate people of all ages.
-
 ### VERBS?
 
 This session is about **hacking games**, using a tool we are all familiar with: verbs! 
