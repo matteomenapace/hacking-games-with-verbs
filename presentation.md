@@ -2,7 +2,9 @@
 
 This session is about **hacking games**, using a tool we are all familiar with: verbs! 
 
-Whether it is running or collecting, shooting or trading, **games are driven by verbs**: they determine what you can do in a game, how you can interact with its characters or other players, what you should do to win it, and what you simply can't do. Ever tried to talk to a monster in a first-person-shooter, instead of shooting it? 
+Whether it is running or collecting, shooting or trading, **games are driven by verbs**: they determine what you can do in a game, how you can interact with its characters or other players, what you should do to win it, and what you simply can't do. 
+
+Ever tried to talk to a monster in a first-person-shooter, instead of shooting it? 
 
 So, we will look at classic videogames in terms of verbs and explore how these verbs express **messages** and **values**, **ideas** and **ideologies**. 
 
@@ -18,7 +20,7 @@ People with their own background, culture, systems of values, beliefs.
 
 These backgrounds will inevitably affect the design of the game.
 
-![Between a real city and SimCity](https://raw.github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/master/images/presentation/entertainment.jpg)
+![Between a real city and SimCity](images/presentation/entertainment.jpg)
 
 Between a real city and SimCity there is a person who decides what to include and what to not include in the **simulation**, how the game elements interact, what you (as a player) can do and what you cannot do.
 
@@ -30,7 +32,7 @@ Like a scientific experiment, a simulation game creates a **simplified model of 
 
 You don't find racial tensions in SimCity, yet they were a major factor in the development of North American cities, on which SimCity was modelled.
 
-![Simplified models of real life](https://raw.github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/master/images/presentation/simulation.jpg)
+![Simplified models of real life](images/presentation/simulation.jpg)
 
 In military themed first-person shooters you generally get a fantastical, propagandistic representation of war, reflecting a simplified vision of the world that was divided into goodies and baddies, where enemies are clearly distinguishable, dressed up with balaclavas, and civilians are nowhere to be seen.
 
@@ -40,7 +42,7 @@ Even apparently innocuous and non-violent games like [Farmville][3] simulate bus
 
 They are generally based on a principle of endless accumulation, endless expansion, whilst excluding the negative byproducts of industrial food production: pollution, deforestation, deterioration of labour conditions, and so on.
 
-![Games describing systems of production](https://raw.github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/master/images/presentation/systems.jpg)
+![Games describing systems of production](images/presentation/systems.jpg)
 
 These are **systemic problems**, and games can be very good at describing **systems**.
 
@@ -50,7 +52,7 @@ Nowadays a lot of games rely heavily on **stories**, which can be problematic to
 
 Have you seen the trailer from the forthcoming Tomb Raider, that includes a sexual assault scene? We don't know whether you will actually be able to prevent the rape as a player, but we like to think you will.
 
-![Deconstructing narratives](https://raw.github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/master/images/presentation/narratives.jpg)
+![Deconstructing narratives](images/presentation/narratives.jpg)
 
 However, this was heavily criticised as a tasteless move and sloppy writing. If you have a female protagonist, the most cliché narrative device for **character development** is a rape or sexual assault.
 
@@ -64,7 +66,7 @@ Women and minorities are rarely featured, and we can spot that quite easily. But
 
 Take the Sims, which allows all sort of skin colours and some gender orientation outside the binary norm. Yet these differences are irrelevant to the gameplay, as the system of the game doesn't really take them into account: you have the same career and friendship opportunities regardless of your identity. Your ethnic background is flattened to a single, insignificant variable.
 
-![Irrelevant differences](https://raw.github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/master/images/presentation/representation.jpg)
+![Irrelevant differences](images/presentation/representation.jpg)
 
 More often than not game propose questionable representations, embracing and reinforcing the dominant systems of values, also known as **ideology**.
 
@@ -86,7 +88,7 @@ You don't just empathize with a character, you **immerse** yourself in that char
 
 Most mainstream games use roleplay in function of **escapism**, and they tend to be power fantasies.
 
-![Power fantasies vs disempowered roleplay](https://raw.github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/master/images/presentation/roleplay.jpg)
+![Power fantasies vs disempowered roleplay](images/presentation/roleplay.jpg)
 
 But it's possible to expand the scope of roleplay, challenging players to experience the world from a different perspective. There are some experiments, like [Darfur is dying][4] in which you play as a Darfur refugee, or [Spent][5], a simulation of daily life below the poverty line.
 

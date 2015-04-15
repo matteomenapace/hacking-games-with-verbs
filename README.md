@@ -32,7 +32,7 @@ To be prepared ahead of the workshop:
 2. A set of **printed [game cards](games.md)**, each of them including a visual reference, a short explanation and a few questions to help teams analyse their game.
 3. A set of **printed [issue cards](issues.md)**, each of them including related keywords and an example scenario to stimulate different takes on the issue. Participants can choose to approach the issue in an abstract way, in more geographically or historically specific way or anything in between. 
 4. A **printed [brainstorming cheatsheet](cheatsheet.md)** with tips and questions to help team discussion.
-5. A set of **printed [props](https://github.com/matteomenapace/paper-prototype-socially-responsive-games-with-verbs/tree/master/images/games)** for people to use as main movable visual modules when prototyping their new gameplays. Physical paper pieces compel participants to reason in visual and spatial terms. They also allow for a more democratic process, since all team members can rearrange elements as if they were working on a jigsaw puzzle.
+5. A set of **printed [props](images/games)** for people to use as main movable visual modules when prototyping their new gameplays. Physical paper pieces compel participants to reason in visual and spatial terms. They also allow for a more democratic process, since all team members can rearrange elements as if they were working on a jigsaw puzzle.
 
 Additional materials needed for the paper-prototyping activity:
 
