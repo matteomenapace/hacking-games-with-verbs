@@ -116,6 +116,8 @@ Change graphic appearances while keeping the mechanics intact [↩](#introductio
 A form of visual and participatory storytelling that combines the use of hand drawn visuals with the narration of a live presenter. [Learn more about Kamishibai](http://www.presentationzen.com/presentationzen/2011/10/kamishibai-is-a-form-of-visual-and-participatory-storytelling-that-combines-the-use-of-hand-drawn-visuals-with-the-engaging-n.html) [↩](#ingredients)
 
 
+### License
 
+[![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0)
 
-
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ](http://creativecommons.org/licenses/by-nc-sa/4.0)
