@@ -1,14 +1,44 @@
-### VERBS?
+# Hacking games with verbs
 
-This session is about **hacking games**, using a tool we are all familiar with: verbs! 
+Today we're making games. 
+
+You don't need any experience in game design or *coding*: we assume **zero knowledge**. 
+
+We'll work together and have a good time making and playing games!
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![](images/verbs-scrabble.jpg)
+
+
+### Verbs?
+
+> Ever tried to talk to a monster in a first-person-shooter, instead of shooting it? 
 
 Whether it is running or collecting, shooting or trading, **games are driven by verbs**: they determine what you can do in a game, how you can interact with its characters or other players, what you should do to win it, and what you simply can't do. 
 
-Ever tried to talk to a monster in a first-person-shooter, instead of shooting it? 
+#### Think of a game you've played recently. 
+
+* What actions does the game allow you to do? 
+* And what does the game not let you do?
+
+This session is about **hacking games**, using a tool we are all familiar with: verbs! We're all familiar with verbs, right? 
+
+
+### Hacking? 
+
+
+
 
 So, we will look at classic videogames in terms of verbs and explore how these verbs express **messages** and **values**, **ideas** and **ideologies**. 
 
-Then we will modify these games, changing the verbs so that they express our own messages and values.
+Then we will modify these games, changing the verbs so that they expresses our views, communicates our ideas or raises awareness about something we care about.
+
 
 ### ENTERTAINMENT? 
 
