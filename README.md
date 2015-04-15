@@ -1,15 +1,15 @@
 # Hacking games with verbs
 
+Whether it is running or collecting, shooting or trading, **games are driven by verbs**. In this workshop we pick out the verbs that make up a game and explore how these verbs express certain messages and values. Then we **hack the game** with new verbs, so that it communicates our own messages and values.
+
 ![Poster](images/poster.jpg)
 
-I *forked* this **workshop recipe** from [this one](http://www.molleindustria.org/blog/a-computerless-videogame-modding-workshop), prepared by [Paolo Pedercini](http://www.molleindustria.org) and [Una Lee](http://unalee.net/), and inspired by [Grow-a-Game](http://www.tiltfactor.org/grow-a-game).
+I *forked* this **workshop recipe** from [this one](http://www.molleindustria.org/blog/a-computerless-videogame-modding-workshop), prepared by [Paolo Pedercini](http://www.molleindustria.org) + [Una Lee](http://unalee.net/) and inspired by [Grow-a-Game](http://www.tiltfactor.org/grow-a-game).
 
 Please take this recipe and try it at home, with your class, club or organisation, and share your results with all people _upstream_ (as per [license](LICENSE)).
 
 
 ## Introduction
-
-**This workshop is about hacking the rules of existing videogames in response to topical issues, and prototyping new games that are vessels of alternative values and messages.**
 
 Working in small teams, participants receive two creative constraints:
 
@@ -41,14 +41,6 @@ Additional materials needed for the paper-prototyping activity:
 * **post-its** in different colours
 * **scissors**
 * **glue** sticks
-
-### The elevator pitch
-
-In the joyful chaos of an event like the [Mozilla Festival](http://mozillafestival.org/), you need a short and engaging description to attract people and distinguish your workshop from the other 100+ available ones.
- 
-As [advertised on Lanyrd](http://lanyrd.com/2012/mozilla-festival/szkmy/):
-
-> This session will allow you to **prototype a videogame** starting with something we are all familiar with: verbs! Whether it is running or collecting, shooting or trading, **games are driven by verbs**. We will look at classic games in terms of verbs and explore how these verbs express messages and values. Then we will **hack these games**, changing the verbs so that they express our own messages and values.
 
 
 ## Method
