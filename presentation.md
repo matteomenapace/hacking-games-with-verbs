@@ -1,5 +1,15 @@
 # Hacking games with verbs
 
+<!--
+
+Quick show of hands:
+
+Have you played a game before?
+Have you made a game before?
+Have you hacked a game before?
+
+-->
+
 Today we're making games. 
 
 You don't need any experience in game design or *coding*: we assume **zero knowledge**. 
