@@ -71,14 +71,14 @@ This is how the workshop unfolds:
 
 Three teams took part in the workshop at the [Mozilla Festival](http://lanyrd.com/2012/mozilla-festival/szkmy/). These are the game concepts they came up with:
 
-1. #### MARIO + POWER of MONEY:
+1. #### Mario + economy
 Princess Toadstool is in debt, and Mario has to bail her out. The more time passes, the bigger her debt grows.
 So you set out to gather money and keep up with repayments, while the game keeps throwing moral dilemmas at you: mug people or burgle houses for quick bucks, or go the slower legitimate way of earning money with hard work? This idea sparkled from the thought that actions in the original Mario have no consequences, you keep jumping over turtles and breaking bricks, collecting coins that can't be traded.
 
-2. #### BOMBERMAN + DIGITAL LITERACY, re-titled NETWORKMAN:
+2. #### Bomberman + digital literacy
 You have Internet connection, but your friends don't. Your first goal is to get them connected, so that you can start building things together. So you set out to find cable and build a physical network, but the network thieves drop bombs to destroy your connections. When you connect another player, they can help you make the network stronger and unlock new challenges to build the Open Web.
 
-3. #### PAC-MAN + ENERGY:
+3. #### Pac-man + energy
 You (Pac-man) want to be energy efficient, but energy corporations want you to waste it. Your goal is to get out of each level's maze by consuming the least amount of energy (dots), while the shiny gadgets and juicy appliances that are thrown at you to increase your bill. This game subverts the Pac-man gameplay by turning its endless hunger and pointless accumulation into a strategic avoidance.
 
 
