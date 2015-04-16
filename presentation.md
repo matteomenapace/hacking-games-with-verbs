@@ -4,6 +4,9 @@ Today we're making games.
 
 You don't need any experience in game design or *coding*: we assume **zero knowledge**. 
 
+In fact, you're probably more experienced players (should I say *gamers*) than myself :)
+
+<!--How on Earth do you hack a game with verbs? What does it even mean?-->
 
 ![](images/presentation/verbs-scrabble.jpg)
 
@@ -45,12 +48,16 @@ Let's hack [rock-paper-scissors](http://en.wikipedia.org/wiki/Rock-paper-scissor
 
 * What if you **remove** one element? 
 * What if you **add** one element?
-* What if you introduce new **rules**?
 * How about changing the number of **players**? 
-* Is there a **strategy** to win this game?
+* What if you introduce new **rules**? 
+* Who says you can only use your hands? What about the rest of the body?
+* Who says you can only use visual signs? How about noises, or smells?
+
 * What do you **know** about the other player's strategy?
+* Is there a **strategy** to win this game?
 * What if you change the **goal** of the game?
 * How about turning it into a **collaborative** game? 
+
 * How about **renaming** the elements? 
 * Can you think of a different **story** (narrative) for this game?
 * What **messages** may the gameplay communicate?
@@ -130,7 +137,7 @@ And who are the baddies?
 
 In **military themed** first-person shooters you generally get a fantastical, propagandistic representation of war, reflecting a simplified vision of the world divided into goodies and baddies, where enemies are clearly distinguishable, dressed up with balaclavas, and civilians are nowhere to be seen.
 
-# Farmville simulates real business
+# Farmville simulates real farms
 
 ![](images/presentation/facebook-farmville-mcdonalds.jpg)
 
@@ -142,7 +149,11 @@ Agree or disagree?
 
 Endless accumulation, endless expansion. But is that how things work in real life? 
 
-Can you exclude or ignore the byproducts of industrial food production: pollution, deforestation, worsening labour conditions? 
+[![](images/presentation/farming-simulator.jpg)](http://www.farming-simulator.com)
+
+Can you exclude the byproducts of industrial food production: pollution, deforestation, worsening labour conditions? 
+
+[![](images/presentation/farming-simulator-accident.jpg)](http://www.farming-simulator.com)
 
 > Even Farmville, where you don’t kill anyone, can carry a problematic message.
 
@@ -150,7 +161,7 @@ Agree or disagree?
 
 ![Games describing systems of production](images/presentation/mcvideogame-corrupt-nutritionist.png)
 
-On the other hand there’s [McVideoGame](http://www.mcvideogame.com/index-eng.html), which simulates how the fast food giant operates:
+On the other hand there's [McVideoGame](http://www.mcvideogame.com/index-eng.html), which simulates how the fast food giant operates:
 
 * Your goal is to make money and avoid bankruptcy. 
 * During the game you choose whether or not to feed the cows genetically altered grain, or plough over rainforests, or feed the cows to other cows. 
@@ -172,7 +183,11 @@ Agree or disagree?
 
 Nowadays a lot of games rely heavily on **stories**.
 
+Can you think of a game without a story?
+
 [![Deconstructing narratives](images/presentation/damsel-in-distress.png)](https://www.youtube.com/watch?v=X6p5AZp7r_Q)
+
+Would you still play Mario if the princess wasn't there?
 
 Have you heard of the **damsel in distress**?
 
@@ -216,13 +231,13 @@ In this workshop we will break down gameplays as verbs (because we are familiar 
 
 ![](images/presentation/knights-and-dragons.png)
 
-Another important property of games, that sets them apart from storytelling media, is **roleplay**.
+Another important property of games, setting them apart from storytelling media, is **roleplay**.
 
 You don't just empathise with a character, you **immerse** yourself in that character and **take decisions** for her in the simulated world.
 
 ![Power fantasies](images/presentation/world-of-warcraft.png)
 
-Most mainstream games use roleplay in function of **escapism**, and they tend to be power fantasies.
+Most mainstream games use roleplay in function of **escapism**, and they tend to be *power fantasies*.
 
 ![Power fantasies](images/presentation/second-life.png)
 
