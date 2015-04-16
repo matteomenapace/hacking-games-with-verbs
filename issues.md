@@ -64,7 +64,7 @@ The government has passed a law that makes protest illegal
 
 ## Education
 
-Access for the less advantaged/privileged, right to learn, gender balance, Victorian system, test-driven culture, life and vocational skills, apprenticeships 
+Access for the less advantaged/privileged, right to learn, gender balance, Victorian system, test-driven culture, life and vocational skills, apprenticeships, students loans 
 
 ##### Example scenario
 
