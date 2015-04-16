@@ -105,9 +105,11 @@ Today we will:
 
 # Are games mindless entertainment?
 
-![](http://mycours.es/gamedesign2012/files/2012/11/Slide271.jpg)
+[![](images/presentation/toledano-gamers-she.jpg)](http://www.mrtoledano.com/gamers)
 
 Can games can convey **messages**? 
+
+[![](images/presentation/toledano-gamers-he.jpg)](http://www.mrtoledano.com/gamers)
 
 Can they they embody certain **values**? Even when they are not designed for that?
 
@@ -239,7 +241,7 @@ In this workshop we will break down gameplays as verbs (because we are familiar 
 
 # What roles do you play? 
 
-![](images/presentation/knights-and-dragons.png)
+[![](images/presentation/knights-and-dragons.png)](http://elementaryartroom.blogspot.co.uk/2010/11/knights-and-dragons.html)
 
 Another important property of games, setting them apart from storytelling media, is **roleplay**.
 
@@ -317,15 +319,28 @@ Your finished game may look similar but will play very differently than the orig
 
 ### Examples
 
-##### MARIO + FOOD POLITICS
+#### Mario + food politics
 
 Mario sets on a mission to collect and bring food to a hungry neighbourhood, whilst fighting Bowser, who controls a monopoly of restaurants and sends out Goombas to destroy the food.
 
-##### PAC-MAN + SOCIETY (bullying)  
+#### Pac-Man + bullying  
 
 Pac-Man is a student, bullied by ghosts. Some of them pick on his skin colour, others on his insatiable hunger. In order to defeat the different types of bullies, you needed different skills (fruits)
 
-##### SPACE INVADERS + INTERNATIONAL AFFAIRS
+#### Space Invaders + international affairs
 
 Space Invaders turns into a multiplayer game, using a Lemmings-like guidance mechanic to infiltrate the G20 meeting. You can play cooperatively or competitively.
+
+#### Mario + economy
+
+Princess Toadstool is in debt, and Mario has to bail her out. The more time passes, the bigger her debt grows.
+So you set out to gather money and keep up with repayments, while the game keeps throwing moral dilemmas at you: mug people or burgle houses for quick bucks, or go the slower legitimate way of earning money with hard work? This idea sparkled from the thought that actions in the original Mario have no consequences, you keep jumping over turtles and breaking bricks, collecting coins that can't be traded.
+
+#### Bomberman + digital literacy
+
+You have Internet connection, but your friends don't. Your first goal is to get them connected, so that you can start building things together. So you set out to find cable and build a physical network, but the network thieves drop bombs to destroy your connections. When you connect another player, they can help you make the network stronger and unlock new challenges to build the Open Web.
+
+#### Pac-man + energy
+
+You (Pac-man) want to be energy efficient, but energy corporations want you to waste it. Your goal is to get out of each level's maze by consuming the least amount of energy (dots), while the shiny gadgets and juicy appliances that are thrown at you to increase your bill. This game subverts the Pac-man gameplay by turning its endless hunger and pointless accumulation into a strategic avoidance.
 
