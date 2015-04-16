@@ -99,7 +99,7 @@ zero-sum game: wins for the winner are equal to the losses for the loser
 
 Today we will:
 
-1. Look at classic videogames in terms of verbs and explore how these verbs express **messages** and **values**, **ideas** and **ideologies**. 
+1. Look at classic videogames in terms of verbs and explore how these verbs express **messages** and **morals**, **ideas** and **ideologies**. 
 2. Hack these games, changing the verbs so that they expresses our **views**, communicates our **ideas** or raises **awareness** about something we **care** about.
 
 
@@ -302,10 +302,10 @@ We will give each team one game.
 
 Break down the game mechanics into **verbs** and think about the implicit or explicit **messages** that they communicate:
     
-* what **verbs** are used in the game?
-* can you think of any other relevant verbs that **could have been included** in the game?
-* what **messages** does the game communicate? 
-* what **values** does it embody?
+* What **verbs** are used in the game?
+* Can you think of any other relevant verbs that **could have been included** in the game?
+* What **messages** does the game communicate? 
+* What **morals** does it embody?
 
 ### 2. Hacking the game
 
@@ -344,3 +344,11 @@ You have Internet connection, but your friends don't. Your first goal is to get 
 
 You (Pac-man) want to be energy efficient, but energy corporations want you to waste it. Your goal is to get out of each level's maze by consuming the least amount of energy (dots), while the shiny gadgets and juicy appliances that are thrown at you to increase your bill. This game subverts the Pac-man gameplay by turning its endless hunger and pointless accumulation into a strategic avoidance.
 
+<!--
+
+Games suggested by students
+
+http://www.funny-games.biz/breeder.html
+http://tangerinetycoon.com/
+
+-->
