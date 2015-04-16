@@ -1,13 +1,16 @@
-## (1) DECONSTRUCTING THE GAME
+# 1. Break down the game
 
-### Questions to your game analysis
+### Verbs > messages > morals
 
-* what **verbs** are used in the game?
-* can you think of any other relevant verbs or dynamics that **could have been included** in the game?
-* what **messages** does the game communicate?
-* what **values** does it embody?    
+* What **verbs** are used in the game?
+* Can you think of any other relevant verbs or dynamics that **Could have been included** in the game?
+* What **messages** does the game communicate?
+* What **morals** does it embody? 
+
+Think about the actions the game wants you to take in order to win it: that may give you a hint of its **messages and morals**. 
+  You don't have to agree with those morals.
  
-## (2) HACKING THE GAME
+# 2. Hack the game
 
 ### You have an issue and a game.
 ### Redesign the game so that it is about the issue.
@@ -20,13 +23,12 @@ Your new game may look similar but will play very differently than the original!
 
 ### Questions to help your new game design
 
-* what are your team’s views in relation to the issue?
-* what are your team’s values in relation to the issue?
-* what are some verbs that reflect those values and views?
-* who are the characters involved in the issue?
-* how do they interact with each other?
-* who is the player in your new game?
-* what is/are the player’s role(s) in the issue?   
-* what is the goal of the new game?   
-* is it a collaborative game or a competitive game?
-* is it a multiplayer or a single-player game?                
+* What are your team's views in relation to the issue?
+* What are some verbs that reflect those views?
+* Who are the characters involved in the issue?
+* How do they interact with each other?
+* Who is the player in your new game?
+* What is/are the player's role(s) in the issue?   
+* What is the goal of the new game?   
+* Is it a collaborative game or a competitive game?
+* Is it a multiplayer or a single-player game?                
