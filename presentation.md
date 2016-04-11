@@ -19,10 +19,11 @@ In that spirit, I decided to *hack the workshop* itself and turn it on its head,
 
 Imagine we're exploring the *territory* between stories and games.
 
-So far you have developed **storylines** (or story-maps), and then cut those up into playable blocks with [Twine](http://twinery.org/). In other words, you started from linear stories and moved a bit into the unchartered territory towards games, by making (more or less) interactive stories. 
+So far you have developed **story-lines** (or story-maps), and then cut those up into playable blocks with [Twine](http://twinery.org/). In other words, you started from linear stories and moved a bit into the unchartered territory towards games, by making (more or less) interactive stories. 
 
 Today we're starting from the opposite end, and move towards the middle.
 
+By making games we'll also attempt to answer the question **wtf are games**?
 
 ### Verbs?
 
@@ -41,13 +42,9 @@ Verbs determine what you can do in a game, how you can interact with its charact
 * What actions does the game **let** you do? 
 * And what does the game **not let** you do?
 
-
-
-
+### Hacking? 
 
 [![](images/presentation/hacked.jpg)](https://www.google.co.uk/search?q=hacking&source=lnms&tbm=isch&sa=X&ei=CZguVeynIIOqafWlgLAK&ved=0CAcQ_AUoAQ&biw=1379&bih=782#q=hacking&tbas=0&tbm=isch&tbs=isz:l)
-
-### Hacking? 
 
 What does hacking mean to you? 
 
@@ -55,12 +52,15 @@ What does hacking mean [according to Google](https://www.google.co.uk/search?q=h
 
 Why does hacking have such **negative** connotation? 
 
-Can we look at hacking as a **neutral**, or even **positive** practice? As in 
+Can we look at hacking as a **neutral**, or even **positive** practice? As in **modifying** something, possibly to **improve** it.
 
-> modifying something, possibly to improve it
+> Whatever code we hack, be it programming language, poetic language, math or music, curves or colourings, we create the possibility of new things entering the world. Not always great things, or even good things, but new things.
 
+> [A Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html) by Mackenzie Wark
 
-#### Hacking a game
+#### A hacker practices creativity as **hacking the new out of the old**
+
+### Hacking a game
 
 What happens when you hack a game?
 
@@ -68,21 +68,30 @@ What happens when you hack a game?
 
 Let's hack [rock-paper-scissors](http://en.wikipedia.org/wiki/Rock-paper-scissors)
 
-* What if you **remove** one element? 
-* What if you **add** one element?
-* How about changing the number of **players**? 
-* What if you introduce new **rules**? 
-* Who says you can only use your hands? What about the rest of the body?
-* Who says you can only use visual signs? How about noises, or smells?
+#### What can we hack? 
 
-* What do you **know** about the other player's strategy?
-* Is there a **strategy** to win this game?
-* What if you change the **goal** of the game?
-* How about turning it into a **collaborative** game? 
+1. The **skin** of the game. 
 
-* How about **renaming** the elements? 
-* Can you think of a different **story** (narrative) for this game?
-* What **messages** may the gameplay communicate?
+	Easy, but a we're just scratching the surface.
+	
+	* How about **renaming** the game elements? 
+	* Can you think of a different **story** (narrative) for this game?
+	
+* The **gameplay**, that is the *dynamic relationship* between game *rules*, game *resources* and *players*.
+
+	More fun!   
+  
+	Turning the original game into something that plays differently, even though it may look similar.
+
+	* What if you **remove** one element, or **add** one element?
+	* What if you introduce new **rules**? 
+	* How about changing the number of **players**? 
+	* Who says you can only use your hands? What about the rest of the body?
+	* Who says you can only use visual signs? How about noises, or smells?
+	* Is there a **strategy** to win this game? What do you **know** about the other player's strategy?
+	* What if you change the **goal** of the game?
+	* How about turning it into a **collaborative** game? 
+	* What **messages** may the gameplay communicate?
 
 <!-- 
 
@@ -105,15 +114,14 @@ zero-sum game: wins for the winner are equal to the losses for the loser
 
 -->
 
-
-
+<!--
 ### Today
 
 Today we will:
 
 1. Look at classic videogames in terms of verbs and explore how these verbs express **messages** and **morals**, **ideas** and **ideologies**. 
 2. Hack these games, changing the verbs so that they expresses our **views**, communicates our **ideas** or raises **awareness** about something we **care** about.
-
+-->
 
 # Are games mindless entertainment?
 
