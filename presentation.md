@@ -1,5 +1,3 @@
-# Hacking games with verbs
-
 ## Warnings!
 
 ### No experience? No problem.
@@ -15,6 +13,8 @@ This workshop is about **prototyping games** with a hacker's mindset.
 In that spirit, I decided to *hack the workshop* itself and turn it on its head, so this will be quite experimental :)
 
 
+# Hacking games with verbs
+
 ![](images/presentation/stories-games-graph.png)
 
 Imagine we're exploring the *territory* between stories and games.
@@ -24,21 +24,26 @@ So far you have developed **storylines** (or story-maps), and then cut those up 
 Today we're starting from the opposite end, and move towards the middle.
 
 
+### Verbs?
+
+This session is about hacking games using a tool we are all familiar with: *verbs*! We're all familiar with verbs, right? 
 
 ![](images/presentation/verbs-scrabble.jpg)
 
-### Verbs?
-
 > Ever tried to talk to a monster in a first-person-shooter, instead of shooting it? 
 
-Whether it is running or collecting, shooting or trading, **games are driven by verbs**: they determine what you can do in a game, how you can interact with its characters or other players, what you should do to win it, and what you simply can't do. 
+Whether it is running or collecting, shooting or trading, **games are driven by verbs**. 
+
+Verbs determine what you can do in a game, how you can interact with its characters or other players, what you should do to win it, and what you simply can't do. 
 
 #### Think of a game you've played recently. 
 
-* What actions does the game allow you to do? 
-* And what does the game not let you do?
+* What actions does the game **let** you do? 
+* And what does the game **not let** you do?
 
-This session is about **hacking games**, using a tool we are all familiar with: verbs! We're all familiar with verbs, right? 
+
+
+
 
 [![](images/presentation/hacked.jpg)](https://www.google.co.uk/search?q=hacking&source=lnms&tbm=isch&sa=X&ei=CZguVeynIIOqafWlgLAK&ved=0CAcQ_AUoAQ&biw=1379&bih=782#q=hacking&tbas=0&tbm=isch&tbs=isz:l)
 
