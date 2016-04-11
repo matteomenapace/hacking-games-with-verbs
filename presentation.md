@@ -1,22 +1,21 @@
 # Hacking games with verbs
 
-<!--
+## Warnings!
 
-Quick show of hands:
+### No experience? No problem.
 
-Have you played a game before?
-Have you made a game before?
-Have you hacked a game before?
+You won't need any experience in game design or *coding* in this workshop: I will assume **zero knowledge**. 
 
--->
+In fact, you're probably more experienced *gamers* than myself.
 
-Today we're making games. 
+### What the hack?
 
-You don't need any experience in game design or *coding*: we assume **zero knowledge**. 
+This workshop is about **prototyping games** with a hacker's mindset.
 
-In fact, you're probably more experienced players (should I say *gamers*) than myself :)
+In that spirit, I decided to *hack the workshop* itself and turn it on its head, so this will be quite experimental :)
 
-<!--How on Earth do you hack a game with verbs? What does it even mean?-->
+
+
 
 ![](images/presentation/verbs-scrabble.jpg)
 
