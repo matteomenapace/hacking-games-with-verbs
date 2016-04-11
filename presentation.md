@@ -14,7 +14,8 @@ This workshop is about **prototyping games** with a hacker's mindset.
 
 In that spirit, I decided to *hack the workshop* itself and turn it on its head, so this will be quite experimental :)
 
-#### `stories ⟵?⟶ games`
+
+![](images/presentation/stories-games-graph.png)
 
 Imagine we're exploring the *territory* between stories and games.
 
