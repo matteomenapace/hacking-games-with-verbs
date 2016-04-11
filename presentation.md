@@ -14,6 +14,13 @@ This workshop is about **prototyping games** with a hacker's mindset.
 
 In that spirit, I decided to *hack the workshop* itself and turn it on its head, so this will be quite experimental :)
 
+# stories ⟵ ? ⟶ games
+
+Imagine we're exploring the *territory* between stories and games.
+
+So far you have developed **storylines** (or story-maps), and then cut those up into playable blocks with [Twine](http://twinery.org/). In other words, you started from linear stories and moved a bit into the unchartered territory towards games, by making (more or less) interactive stories. 
+
+Today we're starting from the opposite end, and move towards the middle.
 
 
 
