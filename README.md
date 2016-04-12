@@ -94,13 +94,14 @@ You (Pac-man) want to be energy efficient, but energy corporations want you to w
 
 ### The party bag
 
-Beyond a few hours of playful activities, during the workshop people can:
+* Develop a critical thinking approach to entertainment commodities (namely, videogames)
+* Practice a methodology that can be applied to game design and UX design in general, using constraints to channel your creative response
+* Get into a *hacking* mindset, where you hack something new out of the old
+* Leave with a prototyped concept, which you could develop further, digitally as a videogame or physically as a board game
 
-* develop a critical thinking approach to entertainment commodities
-* practice a methodology that can be applied to game design and user experience design in general, using constraints to channel your creative response
-* leave with a prototyped concept, which they could develop further, digitally as a videogame or physically as a board game
+<!--
 * organise similar hack-a-game sessions, independently, in the future 
-
+-->
 
 
 
