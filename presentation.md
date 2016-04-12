@@ -94,23 +94,30 @@ Let's hack [rock-paper-scissors](http://en.wikipedia.org/wiki/Rock-paper-scissor
 
 <!-- 
 
-Abstracting: A beats B, B beats C, and C beats A
+**Abstracting**: A beats B, B beats C, and C beats A
  
 Japanese mushi-ken: frog, slug & snake
 Kitsune-ken: fox, mayor, hunter
 Malaysia: bird, water, stone
 
-Balance:
+**Balance**:
 As long as the number of moves is an odd number and that each move defeats exactly half of the other moves while being defeated by the other half, any combination of moves will function as a game. 
  
-Psychology? 
-attack and defence
-chance or pattern recognition?
+Psychology plays an important role in this game
+Attack and defence
+Is it chance or pattern recognition?
 
-simultaneous decision game
+Simultaneous decision game
 
-zero-sum game: wins for the winner are equal to the losses for the loser
+Zero-sum game: wins for the winner are equal to the losses for the loser
 
+Examples of hacks:
+
+* Inspired by [Bullshit](https://en.wikipedia.org/wiki/Cheat_(game)). Each turn, a player declares which move she's going to play. This could be the declared move or the one which defeats it (eg: I say "I'm going to play `paper`" and I could then play either `paper` or `scissors` but not `rock`). The other player can then decide whether their opponent is lying or not, and play their move accordingly (eg: if player A declared to play `paper`, player B can play `paper` [to either draw or lose], `scissors` [to either win or draw] or `rock` [to either win or lose). 
+* Same mechanics but moves get you different points: `paper` is 1 point, `scissors` 2 and `rock` 5
+* Same mechanics but each moves gets 3 *health* points, and each time you lose a move, that move goes down 1 point. When you lost all your health points for a move, you can't use that move any more.
+* "Super Duper" reskin, with a super-hero theme: SuperMan + Civilian + Dead Cop (or something)
+* Cybersecurity reskin: Trojan + Malware + Antivirus (or something)
 -->
 
 
