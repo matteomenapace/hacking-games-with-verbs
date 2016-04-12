@@ -114,26 +114,26 @@ zero-sum game: wins for the winner are equal to the losses for the loser
 
 -->
 
-<!--
-### Today
 
-Today we will:
+# ¿Games?
 
-1. Look at classic videogames in terms of verbs and explore how these verbs express **messages** and **morals**, **ideas** and **ideologies**. 
-2. Hack these games, changing the verbs so that they expresses our **views**, communicates our **ideas** or raises **awareness** about something we **care** about.
--->
-
-# Are games mindless entertainment?
+We just hacked a popular age-old game. So what makes a game, a *game*?
 
 [![](images/presentation/toledano-gamers-she.jpg)](http://www.mrtoledano.com/gamers)
 
-Can games can convey **messages**? 
+### Are games just entertainment?
 
 [![](images/presentation/toledano-gamers-he.jpg)](http://www.mrtoledano.com/gamers)
 
-Can they they embody certain **values**? Even when they are not designed for that?
+#### Can games can express **messages**? 
 
-# Who makes games?
+#### Can games they embody certain **morals**? 
+
+Even when they are not designed to express messages and embody morals?
+
+To answer these questions, we can start by looking at how games are made.
+
+## Who makes games?
 
 ![Between a real city and SimCity](images/presentation/entertainment.jpg)
 
@@ -141,13 +141,13 @@ Between a real city and [SimCity](http://en.wikipedia.org/wiki/SimCity) there is
 
 Games are **cultural products made by actual people** (typically white male nerds).
 
-People with their own background, culture, systems of values, beliefs. 
+People with their own background, culture, systems of morals, beliefs. 
 
 These backgrounds will inevitably affect the design of the game.
 
 As a designer you can take **responsibility** for these decisions, and think about the messages that your game communicates.
 
-# Do games simulate real life?
+## Are games simulations of real life?
 
 A simulation is an **abstraction** of real life, which necessarily eliminates some of real life's complexities to focus on certain aspects only. 
 
@@ -155,41 +155,31 @@ Like a **scientific experiment**, a simulation game creates a **simplified model
 
 [![Simplified models of real life](images/presentation/simulation-racial-tension.png)](http://imgur.com/gallery/4B1Jq)
 
-Do you find **racial tensions** in SimCity? 
+Do you find **racial tension** in SimCity? What about the American cities on which it was modelled?
 
-What about the American cities on which it was modelled?
-
+<!--
 ![](http://upload.wikimedia.org/wikipedia/commons/2/2d/Thumb_war_in_Iraq.jpg)
+-->
 
-Who are the goodies? 
-
-And who are the baddies?
+### Who are the goodies and the baddies?
 
 ![Simplified models of real life](images/presentation/simulation-war.png)
 
 In **military themed** first-person shooters you generally get a fantastical, propagandistic representation of war, reflecting a simplified vision of the world divided into goodies and baddies, where enemies are clearly distinguishable, dressed up with balaclavas, and civilians are nowhere to be seen.
 
-# Farmville simulates real farms
+### Does Farmville simulate real farms?
 
 ![](images/presentation/facebook-farmville-mcdonalds.jpg)
 
-Agree or disagree?
-
-**What** system does [Farmville](http://en.wikipedia.org/wiki/FarmVille) simulate?
-
-**How** does it simulate business processes? 
+**What** system does [Farmville](http://en.wikipedia.org/wiki/FarmVille) simulate? **How** does it simulate business processes? 
 
 Endless accumulation, endless expansion. But is that how things work in real life? 
 
-[![](images/presentation/farming-simulator.jpg)](http://www.farming-simulator.com)
-
-Can you exclude the byproducts of industrial food production: pollution, deforestation, worsening labour conditions? 
+<!--[![](images/presentation/farming-simulator.jpg)](http://www.farming-simulator.com)-->
 
 [![](images/presentation/farming-simulator-accident.jpg)](http://www.farming-simulator.com)
 
-> Even Farmville, where you don’t kill anyone, can carry a problematic message.
-
-Agree or disagree?
+Can you exclude the byproducts of industrial food production: pollution, deforestation, worsening labour conditions? 
 
 ![Games describing systems of production](images/presentation/mcvideogame-corrupt-nutritionist.png)
 
@@ -203,15 +193,11 @@ On the other hand there's [McVideoGame](http://www.mcvideogame.com/index-eng.htm
 
 > By playing and making games we can take a step out of the **systems** we inhabit, conceptualise them as a whole, identify the **conflicting forces** in play, and envision better systems.
 
-Agree or disagree?
-
 Here's an example: [Eco by StrageLoopGames](http://www.strangeloopgames.com)
 
 [![Deconstructing narratives](images/presentation/eco.png)](https://www.youtube.com/watch?v=5ncWjzOXohw)
 
-# Games are simply interactive narratives
-
-Agree or disagree?
+## Are games simply interactive narratives?
 
 Nowadays a lot of games rely heavily on **stories**.
 
@@ -221,9 +207,10 @@ Can you think of a game without a story?
 
 Would you still play Mario if the princess wasn't there?
 
+<!--
 Have you heard of the **damsel in distress**?
 
-Lots of games use cliched narrative tricks for **character development**, and propose questionable representations, embracing and reinforcing the dominant systems of values, also known as **ideology**.
+Lots of games use cliched narrative tricks for **character development**, and propose questionable representations, embracing and reinforcing the dominant moral system, also known as **ideology**.
 
 How are genders *represented* in games?
 
@@ -231,13 +218,13 @@ How are minorities *represented* in games?
 
 ![Irrelevant differences](images/presentation/representation.jpg)
 
-Women and minorities are rarely featured, and we can spot that quite easily. But we need **literacy** for the more subtle implications, not just whether or not you can play as a black girl, but how is the experience of playing in this role.
+Women and minorities are rarely featured, and we can spot that quite easily. But let's look at the more subtle implications, not just whether or not you can play as a black girl, but **how is the experience of playing in this role**.
 
 Take [The Sims](http://en.wikipedia.org/wiki/The_Sims), which allows all sort of skin colours and some gender orientation outside the binary norm. Yet these differences are irrelevant to the gameplay, as the system of the game doesn't really take them into account: you have the same career and friendship opportunities regardless of your identity. 
 
-Your ethnic background is flattened to a single, insignificant variable.
+Your ethnic background is flattened to a single, insignificant variable. -->
 
-# What makes games different than linear media?
+## What makes games different than linear media?
 
 > If I throw a ball at you, I don’t expect you to drop it and wait until it starts telling stories.
 
@@ -247,19 +234,19 @@ Your ethnic background is flattened to a single, insignificant variable.
 
 Linear media (such as films and novels) typically create meaning through storytelling. 
 
-# How do games create meaning?
+### How do games create meaning?
  
 * **Rule** system
 * **Resources** that are controlled by these rules (audiovisual assets in videogames)
 * How **players interact** with these rules
 
-Games (not just videogames) are primarily **systems of rules**.
+#### Games (not just videogames) are primarily **systems of rules**.
 
 In game design, the dynamic relationship between rules and players is called **gameplay**.
 
 In this workshop we will break down gameplays as verbs (because we are familiar with verbs) and then envision different forms of gameplays: **expressive gameplays**.
 
-# What roles do you play? 
+## What roles do you play? 
 
 [![](images/presentation/knights-and-dragons.png)](http://elementaryartroom.blogspot.co.uk/2010/11/knights-and-dragons.html)
 
@@ -289,7 +276,7 @@ Reversing the tendency of mainstream games to function as power fantasies in ord
 
 <!--
 
-### PAPER-PROTOTYPING
+### Paper-prototyping
 
 This is a workshop about videogames, but it is not our aim to build a videogame in one hour and a half.
 
@@ -297,15 +284,37 @@ We are used to considering videogames as technological objects, but before becom
 
 You can actually design videogames without computers. That's what videogames designers and developers often do at the very beginning of the process: **sketching, visualising, moving pieces of paper around**.
 
-### Why remixing?
-
 -->
+
 
 # Your turn
 
-We are going to hack **existing** videogames, just to take out some of the variables and focus on the **mechanics** of the games, rather than producing visuals and thinking about characters and stories.
+Form teams of 3-4 people.
+
+You will receive two creative constraints:
+
+1. A topical **issue**, such as the financial crisis, global climate change, or digital literacy
+2. A classic arcade **game**, such as Super Mario Bros, Pac-man, or Space Invaders
+
+Your first task is to **discuss the issue** and jot down **messages** you want to communicate and **behaviours** you want to promote.
+
+Then you will **analyse the game by looking at its verbs**: what actions players can do, how they can interact with game characters or other players, what they should do to win the game, and what they simply can’t do. You will explore how these verbs express messages and morals (which *good behaviours* they promote), ideas and ideologies. 
+
+Finally you will **redesign the game so that it is about the issue**, using a different set of verbs that reflect the messages and behaviours your team wants to promote. Focus on changing the [*gameplay*](#how-do-games-create-meaning), rather than *reskinning* the game.
+
+Your finished game may look similar but will play very differently than the original! 
 
 ![](images/games/mario/reference-mario.png)
+
+<!--
+As a team, pick an issue, discuss it and jot down the messages and behaviours those messages promote. then pick a random game, analyse its verbs and hack it so that it promotes the messages and behaviours from your chosen issue
+
+1. Look at classic videogames in terms of verbs and explore how these verbs express **messages** and **morals**, **ideas** and **ideologies**. 
+2. Hack these games, changing the verbs so that they expresses our **views**, communicates our **ideas** or raises **awareness** about something we **care** about.
+
+
+We are going to hack **existing** videogames, just to take out some of the variables and focus on the **mechanics** of the games, rather than producing visuals and thinking about characters and stories.
+-->
 
 We are going to use **classic videogames** for a few good reasons:
 
@@ -315,7 +324,7 @@ We are going to use **classic videogames** for a few good reasons:
 
 ![](images/games/pacman/reference-pacman.png)
 
-
+<!--
 ### 1. Picking out the verbs
 
 We will give each team one game.
@@ -336,6 +345,7 @@ We will give each team an **issue**.
 Verbs will be the building blocks of your new game, but consider also how you can change the **gameplay** (its system of rules and the way players interact with characters and objects), the game **goal** and its **narrative**.
 
 Your finished game may look similar but will play very differently than the original! 
+-->
 
 ### Examples
 

@@ -13,16 +13,27 @@ Please take this recipe and try it at home, with your class, club or organisatio
 
 Working in small teams, participants receive two creative constraints:
 
+1. A topical **issue**, such as the financial crisis, global climate change, or digital literacy
+2. A classic arcade **game**, such as Super Mario Bros, Pac-man, or Space Invaders
+
+The first task is to **discuss the issue** and jot down **messages** participants want to communicate and **behaviours** they want to promote.
+
+Then teams will **analyse the game by looking at its verbs**: what actions players can do, how they can interact with game characters or other players, what they should do to win the game, and what they simply can’t do. Teams will explore how these verbs express messages and morals (which *good behaviours* they promote), ideas and ideologies. 
+
+Finally teams will **redesign the game so that it is about the issue**, using a different set of verbs that reflect the messages and behaviours your team wants to promote. The focus is on changing the _gameplay_[<sup id="s1">1</sup>](#-gameplay), rather than *reskinning* the game.
+
+<!--
 1. a classic arcade **game**, such as Super Mario Bros, Pac-man, or Space Invaders
 2. a topical **issue**, such as the financial crisis, global climate change, or digital literacy
 
 The first task is to **analyse the game verbs**: what actions players can do, how they can interact with game characters or other players, what they should do to win the game, and what they simply can’t do. Participants explore how these verbs express messages and values, ideas and ideologies. 
 
 Then they **redesign the game so that it is about the issue**, using a different set of verbs that reflect the values and views of the team. Participants are encouraged to consider changing the _gameplay_[<sup id="s1">1</sup>](#-gameplay), as well as the goal(s) and narrative of the game.
+-->
 
 Each team is provided with a collection of **pre-cut paper props** ripped from the assigned game, which they use to discuss and prototype alternative gameplays, as opposed to simply re-skin[<sup id="s2">2</sup>](#-re-skin) the game.
 
-![In a nutshell](images/in-a-nutshell.png)
+<!--![In a nutshell](images/in-a-nutshell.png)-->
 
 ## Ingredients
 
@@ -41,7 +52,6 @@ Additional materials needed for the paper-prototyping activity:
 * **post-its** in different colours
 * **scissors**
 * **glue** sticks
-
 
 ## Method
 
