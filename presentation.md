@@ -75,8 +75,7 @@ Let's hack [rock-paper-scissors](http://en.wikipedia.org/wiki/Rock-paper-scissor
 	Easy, but a we're just scratching the surface.
 	
 	* How about **renaming** the game elements? 
-	* Can you think of a different **story** (narrative) for this game?
-	
+	* Can you think of a different **story** (narrative) for this game?	
 * The **gameplay**, that is the *dynamic relationship* between game *rules*, game *resources* and *players*.
 
 	More fun!   
