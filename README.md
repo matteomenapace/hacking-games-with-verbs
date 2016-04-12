@@ -94,10 +94,10 @@ You (Pac-man) want to be energy efficient, but energy corporations want you to w
 
 ### The party bag
 
-* Develop a critical thinking approach to entertainment commodities (namely, videogames)
-* Practice a methodology that can be applied to game design and UX design in general, using constraints to channel your creative response
-* Get into a *hacking* mindset, where you hack something new out of the old
-* Leave with a prototyped concept, which you could develop further, digitally as a videogame or physically as a board game
+* Develop your **critical thinking** brain muscles, to start playing videogames critically (not as mindless entertainment)
+* Practice a methodology that can be applied to game design and UX design in general: using **constraints** to channel your creativity
+* Get into a **hacking mindset**: inquisitive, actively  hacking the new out of the old
+* Leave with a **prototyped concept**, which you could develop further, digitally as a videogame or physically as a board game
 
 <!--
 * organise similar hack-a-game sessions, independently, in the future 
