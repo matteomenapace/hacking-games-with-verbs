@@ -126,7 +126,7 @@ We just hacked a popular age-old game. So what makes a game, a *game*?
 
 #### Can games can express **messages**? 
 
-#### Can games they embody certain **morals**? 
+#### Can games embody certain **morals**? 
 
 Even when they are not designed to express messages and embody morals?
 
