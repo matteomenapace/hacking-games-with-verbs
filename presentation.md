@@ -72,11 +72,11 @@ Let's hack [rock-paper-scissors](http://en.wikipedia.org/wiki/Rock-paper-scissor
 
 1. The **skin** of the game. 
 
-	Easy, but a we're just scratching the surface.
+	Easy, but we're just scratching the surface.
 	
 	* How about **renaming** the game elements? 
 	* Can you think of a different **story** (narrative) for this game?	
-* The **gameplay**, that is the *dynamic relationship* between game *rules*, game *resources* and *players*.
+* The **gameplay**, which we can define as the *dynamic relationship* between game *rules*, game *resources* and *players*.
 
 	More fun!   
   
