@@ -153,6 +153,9 @@ You will receive two creative constraints:
 1. An **issue** such as the financial crisis, climate change or digital literacy. See [all issues here](issues.md).
 2. An arcade **game** such as Super Mario Bros, Pac-man or Space Invaders. See [all games here](games.md).
 
+Head over to [**bit.ly/games-with-issues**](http://bit.ly/games-with-issues) to get your combo of issue and game!
+
+
 ### 1. Discuss the issue
 
 Your first task is to discuss the issue and jot down **messages** you want to communicate and **behaviours** you want to promote.
