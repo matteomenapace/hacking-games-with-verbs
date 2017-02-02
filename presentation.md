@@ -6,30 +6,12 @@ You won't need any experience in game design or *coding* in this workshop: I wil
 
 In fact, you're probably more experienced *gamers* than myself.
 
-### What the hack?
 
-This workshop is about **prototyping games** with a hacker's mindset.
-
-In that spirit, I decided to *hack the workshop* itself and turn it on its head, so this will be quite experimental :)
-
-
-# Hacking games with verbs
-
-![](images/presentation/stories-games-graph.png)
-
-Imagine we're exploring the *territory* between stories and games.
-
-So far you have developed **story-lines** (or story-maps), and then cut those up into playable blocks with [Twine](http://twinery.org/). In other words, you started from linear stories and moved a bit into the unchartered territory towards games, by making (more or less) interactive stories. 
-
-Today we're starting from the opposite end, and move towards the middle.
-
-By making games we'll also attempt to answer the question **wtf are games**?
-
-### Verbs?
+# Verbs?
 
 This session is about hacking games using a tool we are all familiar with: *verbs*! We're all familiar with verbs, right? 
 
-![](images/presentation/verbs-scrabble.jpg)
+![](assets/presentation/verbs-scrabble.jpg)
 
 > Ever tried to talk to a monster in a first-person-shooter, instead of shooting it? 
 
@@ -39,12 +21,16 @@ Verbs determine what you can do in a game, how you can interact with its charact
 
 #### Think of a game you've played recently. 
 
-* What actions does the game **let** you do? 
-* And what does the game **not let** you do?
+What actions does the game **let** you do? 
 
-### Hacking? 
+And what does the game **not let** you do?
 
-[![](images/presentation/hacked.jpg)](https://www.google.co.uk/search?q=hacking&source=lnms&tbm=isch&sa=X&ei=CZguVeynIIOqafWlgLAK&ved=0CAcQ_AUoAQ&biw=1379&bih=782#q=hacking&tbas=0&tbm=isch&tbs=isz:l)
+
+# What the hack?
+
+This workshop is about **designing games** with a hacker's mindset.
+
+[![](assets/presentation/hacked.jpg)](https://www.google.co.uk/search?q=hacking&source=lnms&tbm=isch&sa=X&ei=CZguVeynIIOqafWlgLAK&ved=0CAcQ_AUoAQ&biw=1379&bih=782#q=hacking&tbas=0&tbm=isch&tbs=isz:l)
 
 What does hacking mean to you? 
 
@@ -60,134 +46,77 @@ Can we look at hacking as a **neutral**, or even **positive** practice? As in **
 
 #### A hacker practices creativity as **hacking the new out of the old**
 
-### Hacking a game
 
-What happens when you hack a game?
+# How do you *hack a game*?
 
-![](images/presentation/rock-paper-scissors.jpg)
+Let's hack [rock-paper-scissors](http://en.wikipedia.org/wiki/Rock-paper-scissors).
 
-Let's hack [rock-paper-scissors](http://en.wikipedia.org/wiki/Rock-paper-scissors)
+[![](assets/presentation/rock-paper-scissors.png)](http://en.wikipedia.org/wiki/Rock-paper-scissors)
 
-#### What can we hack? 
+Some ideas:
 
-1. The **skin** of the game. 
+* **Add** or **remove** one element
+* **Rename** the elements
+* Change the **number of players** 
+* Change the **rules** 
+* Use the whole **body** 
+* Use **noises** or **smells** 
+* Is there a **strategy** to win this game?
+* Change the **goal** of the game
+* Turn it into a **collaborative** game
 
-	Easy, but we're just scratching the surface.
-	
-	* How about **renaming** the game elements? 
-	* Can you think of a different **story** (narrative) for this game?	
-* The **gameplay**, which we can define as the *dynamic relationship* between game *rules*, game *resources* and *players*.
+## What can you hack? 
 
-	More fun!   
-  
-	Turning the original game into something that plays differently, even though it may look similar.
+One way to understand games is to analyse their **mechanics**, **dynamics** and **aesthetics**, aka the [MDA framework](assets/mda.pdf).
 
-	* What if you **remove** one element, or **add** one element?
-	* What if you introduce new **rules**? 
-	* How about changing the number of **players**? 
-	* Who says you can only use your hands? What about the rest of the body?
-	* Who says you can only use visual signs? How about noises, or smells?
-	* Is there a **strategy** to win this game? What do you **know** about the other player's strategy?
-	* What if you change the **goal** of the game?
-	* How about turning it into a **collaborative** game? 
-	* What **messages** may the gameplay communicate?
+1. **Mechanics** are the *rules* of a game.
+* **Dynamics** are what players tend to do in order to reach their game goals. 
+* **Aesthetics** are what players experience and feel while playing.
 
-<!-- 
+For example, in *Chess* 
 
-**Abstracting**: A beats B, B beats C, and C beats A
+1. *Mechanics*: if your king is put into check, you are  forced the move it out of check
+* *Dynamics*: you may start your game with pawns, then as the board clears, shift your focus on more powerful elements (there isn't a rule that forces you to do that, but you may have noticed it's a better strategy)
+* *Aesthetics*: you play the role of a medieval commander, trying to outsmart your opponent in an open battle between two armies
  
-Japanese mushi-ken: frog, slug & snake
-Kitsune-ken: fox, mayor, hunter
-Malaysia: bird, water, stone
+**Mechanics shape dynamics, which in turn shape aesthetics.**
 
-**Balance**:
-As long as the number of moves is an odd number and that each move defeats exactly half of the other moves while being defeated by the other half, any combination of moves will function as a game. 
- 
-Psychology plays an important role in this game
-Attack and defence
-Is it chance or pattern recognition?
+It's relatively easy to hack the aesthetics of a game (aka **re-skin** it) but that leaves the underlying mechanics and dynamics unchanged. It doesn't really make it a better or a different game.
 
-Simultaneous decision game
+![](assets/presentation/simpsons-chess.jpg)
 
-Zero-sum game: wins for the winner are equal to the losses for the loser
+We could argue that many contemporary videogames are re-skins of old arcade games, just with more sophisticated graphic and sound effects. For example most FPS (first-person shooter) games are still based on shooting and dodging mechanics, like [Space Invaders](http://en.wikipedia.org/wiki/Space_Invaders)). 
 
-Examples of hacks:
+![](assets/presentation/space-invaders-cod-aliens.jpg)
 
-* Inspired by [Bullshit](https://en.wikipedia.org/wiki/Cheat_(game)). Each turn, a player declares which move she's going to play. This could be the declared move or the one which defeats it (eg: I say "I'm going to play `paper`" and I could then play either `paper` or `scissors` but not `rock`). The other player can then decide whether their opponent is lying or not, and play their move accordingly (eg: if player A declared to play `paper`, player B can play `paper` [to either draw or lose], `scissors` [to either win or draw] or `rock` [to either win or lose). 
-* Same mechanics but moves get you different points: `paper` is 1 point, `scissors` 2 and `rock` 5
-* Same mechanics but each moves gets 3 *health* points, and each time you lose a move, that move goes down 1 point. When you lost all your health points for a move, you can't use that move any more.
-* "Super Duper" reskin, with a super-hero theme: SuperMan + Civilian + Dead Cop (or something)
-* Cybersecurity reskin: Trojan + Malware + Antivirus (or something)
--->
+Here's where **verbs** can come in handy. They are connected to the very mechanics of a game. If you change the verbs of a game, it may look similar but will play very differently than the original.
 
 
-# ¿Games?
+# What will your game simulate?
 
-We just hacked a popular age-old game. So what makes a game, a *game*?
+A *simulation* is an abstraction of real life, which necessarily **leaves out** some of real life's complexities to focus on certain aspects only.
 
-[![](images/presentation/toledano-gamers-she.jpg)](http://www.mrtoledano.com/gamers)
+Which parts of real life do videogames generally leave out?
 
-### Are games just entertainment?
+[![](assets/presentation/simulation-racial-tension.png)](http://imgur.com/gallery/4B1Jq)
 
-[![](images/presentation/toledano-gamers-he.jpg)](http://www.mrtoledano.com/gamers)
+<!-- Do you find **racial tension** in SimCity? What about the American cities on which it was modelled? -->
 
-#### Can games can express **messages**? 
-
-#### Can games embody certain **morals**? 
-
-Even when they are not designed to express messages and embody morals?
-
-To answer these questions, we can start by looking at how games are made.
-
-## Who makes games?
-
-![Between a real city and SimCity](images/presentation/entertainment.jpg)
-
-Between a real city and [SimCity](http://en.wikipedia.org/wiki/SimCity) there is a person who decides what to include and what to not include in the **simulation**, how the game elements interact, what you (as a player) can do and what you cannot do.
-
-Games are **cultural products made by actual people** (typically white male nerds).
-
-People with their own background, culture, systems of morals, beliefs. 
-
-These backgrounds will inevitably affect the design of the game.
-
-As a designer you can take **responsibility** for these decisions, and think about the messages that your game communicates.
-
-## Are games simulations of real life?
-
-A simulation is an **abstraction** of real life, which necessarily eliminates some of real life's complexities to focus on certain aspects only. 
-
-Like a **scientific experiment**, a simulation game creates a **simplified model of real life**, which variables can be manipulated by a scientist, or a player. Who designs the experiment, or the game, decides which variables to include and which to leave out.
-
-[![Simplified models of real life](images/presentation/simulation-racial-tension.png)](http://imgur.com/gallery/4B1Jq)
-
-Do you find **racial tension** in SimCity? What about the American cities on which it was modelled?
+![](assets/presentation/simulation-war.png)
 
 <!--
-![](http://upload.wikimedia.org/wikipedia/commons/2/2d/Thumb_war_in_Iraq.jpg)
+In **military themed** first-person shooters you generally get a fantastical, propagandistic representation of war, reflecting a simplified vision of the world divided into goodies and baddies, where enemies are clearly distinguishable, dressed up with balaclavas, and civilians are nowhere to be seen.
 -->
 
-### Who are the goodies and the baddies?
-
-![Simplified models of real life](images/presentation/simulation-war.png)
-
-In **military themed** first-person shooters you generally get a fantastical, propagandistic representation of war, reflecting a simplified vision of the world divided into goodies and baddies, where enemies are clearly distinguishable, dressed up with balaclavas, and civilians are nowhere to be seen.
-
-### Does Farmville simulate real farms?
-
-![](images/presentation/facebook-farmville-mcdonalds.jpg)
+![](assets/presentation/facebook-farmville-mcdonalds.jpg)
 
 **What** system does [Farmville](http://en.wikipedia.org/wiki/FarmVille) simulate? **How** does it simulate business processes? 
 
 Endless accumulation, endless expansion. But is that how things work in real life? 
 
-<!--[![](images/presentation/farming-simulator.jpg)](http://www.farming-simulator.com)-->
-
-[![](images/presentation/farming-simulator-accident.jpg)](http://www.farming-simulator.com)
-
 Can you exclude the byproducts of industrial food production: pollution, deforestation, worsening labour conditions? 
 
-![Games describing systems of production](images/presentation/mcvideogame-corrupt-nutritionist.png)
+![](assets/presentation/mcvideogame-corrupt-nutritionist.png)
 
 On the other hand there's [McVideoGame](http://www.mcvideogame.com/index-eng.html), which simulates how the fast food giant operates:
 
@@ -195,163 +124,54 @@ On the other hand there's [McVideoGame](http://www.mcvideogame.com/index-eng.htm
 * During the game you choose whether or not to feed the cows genetically altered grain, or plough over rainforests, or feed the cows to other cows. 
 * You can also choose advertising strategies and public official corruption to counteract opponents of your actions.
 
-<!-- Games can help us tell the story of a dysfunctional food system, understand the roots of a rich-getting-richer class dynamic, and many other issues that seem to have way too many moving parts to be reduced to personal stories or linear cause-and-effect relationships. -->
 
-> By playing and making games we can take a step out of the **systems** we inhabit, conceptualise them as a whole, identify the **conflicting forces** in play, and envision better systems.
+# What roles will your players play?
 
-Here's an example: [Eco by StrageLoopGames](http://www.strangeloopgames.com)
+Most mainstream games use roleplay in function of **escapism** and they tend to be *power fantasies*. 
 
-[![Deconstructing narratives](images/presentation/eco.png)](https://www.youtube.com/watch?v=5ncWjzOXohw)
+![](assets/presentation/world-of-warcraft.png)
 
-## Are games simply interactive narratives?
+![](assets/presentation/second-life.png)
 
-Nowadays a lot of games rely heavily on **stories**.
+Can you challenge players to experience the world from a different perspective? A **disempowered perspective**?
 
-Can you think of a game without a story?
+[![](assets/presentation/darfur-is-dying.png)](http://www.darfurisdying.com)
 
-[![Deconstructing narratives](images/presentation/damsel-in-distress.png)](https://www.youtube.com/watch?v=X6p5AZp7r_Q)
+There are some experiments, like [Darfur is dying](http://www.darfurisdying.com) in which you play as a refugee, or [Spent](http://playspent.org), in which you experience daily life below the poverty line.
 
-Would you still play Mario if the princess wasn't there?
+[![](assets/presentation/september-12.png)](http://www.gamesforchange.org/play/september-12th-a-toy-world/)
 
-<!--
-Have you heard of the **damsel in distress**?
-
-Lots of games use cliched narrative tricks for **character development**, and propose questionable representations, embracing and reinforcing the dominant moral system, also known as **ideology**.
-
-How are genders *represented* in games?
-
-How are minorities *represented* in games?
-
-![Irrelevant differences](images/presentation/representation.jpg)
-
-Women and minorities are rarely featured, and we can spot that quite easily. But let's look at the more subtle implications, not just whether or not you can play as a black girl, but **how is the experience of playing in this role**.
-
-Take [The Sims](http://en.wikipedia.org/wiki/The_Sims), which allows all sort of skin colours and some gender orientation outside the binary norm. Yet these differences are irrelevant to the gameplay, as the system of the game doesn't really take them into account: you have the same career and friendship opportunities regardless of your identity. 
-
-Your ethnic background is flattened to a single, insignificant variable. -->
-
-## What makes games different than linear media?
-
-> If I throw a ball at you, I don’t expect you to drop it and wait until it starts telling stories.
-
-[Markku Eskelinen](http://www.gamestudies.org/0101/eskelinen/)
-
-![Story time](images/presentation/story-ball.png)
-
-Linear media (such as films and novels) typically create meaning through storytelling. 
-
-### How do games create meaning?
- 
-* **Rule** system
-* **Resources** that are controlled by these rules (audiovisual assets in videogames)
-* How **players interact** with these rules
-
-#### Games (not just videogames) are primarily **systems of rules**.
-
-In game design, the dynamic relationship between rules and players is called **gameplay**.
-
-In this workshop we will break down gameplays as verbs (because we are familiar with verbs) and then envision different forms of gameplays: **expressive gameplays**.
-
-## What roles do you play? 
-
-[![](images/presentation/knights-and-dragons.png)](http://elementaryartroom.blogspot.co.uk/2010/11/knights-and-dragons.html)
-
-Another important property of games, setting them apart from storytelling media, is **roleplay**.
-
-You don't just empathise with a character, you **immerse** yourself in that character and **take decisions** for her in the simulated world.
-
-![Power fantasies](images/presentation/world-of-warcraft.png)
-
-Most mainstream games use roleplay in function of **escapism**, and they tend to be *power fantasies*.
-
-![Power fantasies](images/presentation/second-life.png)
-
-Can we challenge players to experience the world from a different perspective? 
-
-A disempowered perspective?
-
-[![](images/presentation/darfur-is-dying.png)](http://www.darfurisdying.com)
-
-There are some experiments, like [Darfur is dying](http://www.darfurisdying.com) in which you play as a Darfur refugee, or [Spent](http://playspent.org), a simulation of daily life below the poverty line.
-
-[![](images/presentation/september-12.png)](http://www.gamesforchange.org/play/september-12th-a-toy-world/)
-
-Awkward roleplay strategies can be used to create **moral dilemmas**, forcing the player into disempowered, embarrassing, unusual roles. 
-
-Reversing the tendency of mainstream games to function as power fantasies in order to push the player to reflect on power relations that exist in the real world.
-
-<!--
-
-### Paper-prototyping
-
-This is a workshop about videogames, but it is not our aim to build a videogame in one hour and a half.
-
-We are used to considering videogames as technological objects, but before becoming software they have to be designed as rule systems.
-
-You can actually design videogames without computers. That's what videogames designers and developers often do at the very beginning of the process: **sketching, visualising, moving pieces of paper around**.
-
--->
+You can use awkward roleplay to create **moral dilemmas**, forcing the player into embarrassing, unusual roles. 
 
 
 # Your turn
 
-Form teams of 3-4 people.
+Form teams of 2-3 people.
 
 You will receive two creative constraints:
 
-1. A topical **issue**, such as the financial crisis, global climate change, or digital literacy
-2. A classic arcade **game**, such as Super Mario Bros, Pac-man, or Space Invaders
+1. An **issue** such as the financial crisis, climate change or digital literacy. See [all issues here](issues.md).
+2. An arcade **game** such as Super Mario Bros, Pac-man or Space Invaders. See [all games here](games.md).
 
-Your first task is to **discuss the issue** and jot down **messages** you want to communicate and **behaviours** you want to promote.
+### 1. Discuss the issue
 
-Then you will **analyse the game by looking at its verbs**: what actions players can do, how they can interact with game characters or other players, what they should do to win the game, and what they simply can’t do. You will explore how these verbs express messages and morals (which *good behaviours* they promote), ideas and ideologies. 
+Your first task is to discuss the issue and jot down **messages** you want to communicate and **behaviours** you want to promote.
 
-Finally you will **redesign the game so that it is about the issue**, using a different set of verbs that reflect the messages and behaviours your team wants to promote. Focus on changing the [*gameplay*](#how-do-games-create-meaning), rather than *reskinning* the game.
+* What do you want people to **know** about the issue?
+* How do you want people to **feel** about the issue?
+* What do you want people to **do** about the issue?
+  
+### 2. Analyse the game
 
-Your finished game may look similar but will play very differently than the original! 
+Then you will **analyse the game by looking at its verbs**: what actions players can do, how they can interact with game characters or other players, what they should do to win the game, and what they simply can’t do. 
 
-![](images/games/mario/reference-mario.png)
+You will explore how these verbs express messages and morals (which *behaviours* they promote). 
 
-<!--
-As a team, pick an issue, discuss it and jot down the messages and behaviours those messages promote. then pick a random game, analyse its verbs and hack it so that it promotes the messages and behaviours from your chosen issue
+### 3. Hack the game with the issue
 
-1. Look at classic videogames in terms of verbs and explore how these verbs express **messages** and **morals**, **ideas** and **ideologies**. 
-2. Hack these games, changing the verbs so that they expresses our **views**, communicates our **ideas** or raises **awareness** about something we **care** about.
+Finally you will **redesign the game so that it is about the issue**, using a different set of verbs that reflect the messages and behaviours your team wants to promote. 
 
-
-We are going to hack **existing** videogames, just to take out some of the variables and focus on the **mechanics** of the games, rather than producing visuals and thinking about characters and stories.
--->
-
-We are going to use **classic videogames** for a few good reasons:
-
-* they tend to be more broadly known than contemporary ones
-* they are simpler, so if you never played them you can figure them out in few seconds
-* they are to some extent *archetypes*, in that they introduced some of the most basic elements that are still present in contemporary videogames (graphics and AI aside modern FPS are still based on shooting and dodging, like [Space Invaders](http://en.wikipedia.org/wiki/Space_Invaders)). 
-
-![](images/games/pacman/reference-pacman.png)
-
-<!--
-### 1. Picking out the verbs
-
-We will give each team one game.
-
-Break down the game mechanics into **verbs** and think about the implicit or explicit **messages** that they communicate:
-    
-* What **verbs** are used in the game?
-* Can you think of any other relevant verbs that **could have been included** in the game?
-* What **messages** does the game communicate? 
-* What **morals** does it embody?
-
-### 2. Hacking the game
-
-We will give each team an **issue**.
-
-**Redesign the game so that it is about the issue**: do this by using a different set of verbs that reflect the values and views of your group.
-
-Verbs will be the building blocks of your new game, but consider also how you can change the **gameplay** (its system of rules and the way players interact with characters and objects), the game **goal** and its **narrative**.
-
-Your finished game may look similar but will play very differently than the original! 
--->
+Focus on changing the *mechanics*, rather than *re-skinning* the game.
 
 ### Examples
 
@@ -379,12 +199,3 @@ You have Internet connection, but your friends don't. Your first goal is to get 
 #### Pac-man + energy
 
 You (Pac-man) want to be energy efficient, but energy corporations want you to waste it. Your goal is to get out of each level's maze by consuming the least amount of energy (dots), while the shiny gadgets and juicy appliances that are thrown at you to increase your bill. This game subverts the Pac-man gameplay by turning its endless hunger and pointless accumulation into a strategic avoidance.
-
-<!--
-
-Games suggested by students
-
-http://www.funny-games.biz/breeder.html
-http://tangerinetycoon.com/
-
--->
