@@ -65,6 +65,8 @@ Some ideas:
 * Change the **goal** of the game
 * Turn it into a **collaborative** game
 
+<!-- See http://www.protestgames.org/index.html#Peace, War, Revolution and http://www.deepfun.com/panther-person-porcupine -->
+
 ## What can you hack? 
 
 One way to understand games is to analyse their **mechanics**, **dynamics** and **aesthetics**, aka the [MDA framework](assets/mda.pdf).
